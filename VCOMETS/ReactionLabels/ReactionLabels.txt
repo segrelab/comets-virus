@@ -1,0 +1,3394 @@
+0 Unknown
+1 Unknown
+2 Unknown
+3 Unknown
+4 Unknown
+5 Unknown
+6 Unknown
+7 Unknown
+8 Unknown
+9 Unknown
+10 Unknown
+11 Unknown
+12 Unknown
+13 Unknown
+14 Unknown
+15 Unknown
+16 Unknown
+17 Unknown
+18 Unknown
+19 Unknown
+20 Unknown
+21 Unknown
+22 Unknown
+23 Unknown
+24 Unknown
+25 Unknown
+26 Unknown
+27 Unknown
+28 Unknown
+29 Extracellular exchange
+30 Extracellular exchange
+31 Extracellular exchange
+32 Extracellular exchange
+33 Extracellular exchange
+34 Extracellular exchange
+35 Extracellular exchange
+36 Extracellular exchange
+37 Extracellular exchange
+38 Extracellular exchange
+39 Extracellular exchange
+40 Extracellular exchange
+41 Extracellular exchange
+42 Extracellular exchange
+43 Extracellular exchange
+44 Extracellular exchange
+45 Extracellular exchange
+46 Extracellular exchange
+47 Extracellular exchange
+48 Extracellular exchange
+49 Extracellular exchange
+50 Extracellular exchange
+51 Extracellular exchange
+52 Extracellular exchange
+53 Extracellular exchange
+54 Extracellular exchange
+55 Extracellular exchange
+56 Extracellular exchange
+57 Extracellular exchange
+58 Extracellular exchange
+59 Extracellular exchange
+60 Extracellular exchange
+61 Extracellular exchange
+62 Extracellular exchange
+63 Extracellular exchange
+64 Extracellular exchange
+65 Extracellular exchange
+66 Extracellular exchange
+67 Extracellular exchange
+68 Extracellular exchange
+69 Extracellular exchange
+70 Extracellular exchange
+71 Extracellular exchange
+72 Extracellular exchange
+73 Extracellular exchange
+74 Extracellular exchange
+75 Extracellular exchange
+76 Extracellular exchange
+77 Extracellular exchange
+78 Extracellular exchange
+79 Extracellular exchange
+80 Extracellular exchange
+81 Extracellular exchange
+82 Extracellular exchange
+83 Extracellular exchange
+84 Extracellular exchange
+85 Extracellular exchange
+86 Extracellular exchange
+87 Extracellular exchange
+88 Extracellular exchange
+89 Extracellular exchange
+90 Extracellular exchange
+91 Extracellular exchange
+92 Extracellular exchange
+93 Extracellular exchange
+94 Extracellular exchange
+95 Extracellular exchange
+96 Extracellular exchange
+97 Extracellular exchange
+98 Extracellular exchange
+99 Extracellular exchange
+100 Extracellular exchange
+101 Extracellular exchange
+102 Extracellular exchange
+103 Extracellular exchange
+104 Extracellular exchange
+105 Extracellular exchange
+106 Extracellular exchange
+107 Extracellular exchange
+108 Extracellular exchange
+109 Extracellular exchange
+110 Extracellular exchange
+111 Extracellular exchange
+112 Extracellular exchange
+113 Extracellular exchange
+114 Extracellular exchange
+115 Extracellular exchange
+116 Extracellular exchange
+117 Extracellular exchange
+118 Extracellular exchange
+119 Extracellular exchange
+120 Extracellular exchange
+121 Extracellular exchange
+122 Extracellular exchange
+123 Extracellular exchange
+124 Extracellular exchange
+125 Extracellular exchange
+126 Extracellular exchange
+127 Extracellular exchange
+128 Extracellular exchange
+129 Extracellular exchange
+130 Extracellular exchange
+131 Extracellular exchange
+132 Extracellular exchange
+133 Extracellular exchange
+134 Extracellular exchange
+135 Extracellular exchange
+136 Extracellular exchange
+137 Extracellular exchange
+138 Extracellular exchange
+139 Extracellular exchange
+140 Extracellular exchange
+141 Extracellular exchange
+142 Extracellular exchange
+143 Extracellular exchange
+144 Extracellular exchange
+145 Extracellular exchange
+146 Extracellular exchange
+147 Extracellular exchange
+148 Extracellular exchange
+149 Extracellular exchange
+150 Extracellular exchange
+151 Extracellular exchange
+152 Extracellular exchange
+153 Extracellular exchange
+154 Extracellular exchange
+155 Extracellular exchange
+156 Extracellular exchange
+157 Extracellular exchange
+158 Extracellular exchange
+159 Extracellular exchange
+160 Extracellular exchange
+161 Extracellular exchange
+162 Extracellular exchange
+163 Extracellular exchange
+164 Extracellular exchange
+165 Extracellular exchange
+166 Extracellular exchange
+167 Extracellular exchange
+168 Extracellular exchange
+169 Extracellular exchange
+170 Extracellular exchange
+171 Extracellular exchange
+172 Extracellular exchange
+173 Extracellular exchange
+174 Extracellular exchange
+175 Extracellular exchange
+176 Extracellular exchange
+177 Extracellular exchange
+178 Extracellular exchange
+179 Extracellular exchange
+180 Extracellular exchange
+181 Extracellular exchange
+182 Extracellular exchange
+183 Extracellular exchange
+184 Extracellular exchange
+185 Extracellular exchange
+186 Extracellular exchange
+187 Extracellular exchange
+188 Extracellular exchange
+189 Extracellular exchange
+190 Extracellular exchange
+191 Extracellular exchange
+192 Extracellular exchange
+193 Extracellular exchange
+194 Extracellular exchange
+195 Extracellular exchange
+196 Extracellular exchange
+197 Extracellular exchange
+198 Extracellular exchange
+199 Extracellular exchange
+200 Extracellular exchange
+201 Extracellular exchange
+202 Extracellular exchange
+203 Extracellular exchange
+204 Extracellular exchange
+205 Extracellular exchange
+206 Extracellular exchange
+207 Extracellular exchange
+208 Extracellular exchange
+209 Extracellular exchange
+210 Extracellular exchange
+211 Extracellular exchange
+212 Extracellular exchange
+213 Extracellular exchange
+214 Extracellular exchange
+215 Extracellular exchange
+216 Extracellular exchange
+217 Extracellular exchange
+218 Extracellular exchange
+219 Extracellular exchange
+220 Extracellular exchange
+221 Extracellular exchange
+222 Extracellular exchange
+223 Extracellular exchange
+224 Extracellular exchange
+225 Extracellular exchange
+226 Extracellular exchange
+227 Extracellular exchange
+228 Extracellular exchange
+229 Extracellular exchange
+230 Extracellular exchange
+231 Extracellular exchange
+232 Extracellular exchange
+233 Extracellular exchange
+234 Extracellular exchange
+235 Extracellular exchange
+236 Extracellular exchange
+237 Extracellular exchange
+238 Extracellular exchange
+239 Extracellular exchange
+240 Extracellular exchange
+241 Extracellular exchange
+242 Extracellular exchange
+243 Extracellular exchange
+244 Extracellular exchange
+245 Extracellular exchange
+246 Extracellular exchange
+247 Extracellular exchange
+248 Extracellular exchange
+249 Extracellular exchange
+250 Extracellular exchange
+251 Extracellular exchange
+252 Extracellular exchange
+253 Extracellular exchange
+254 Extracellular exchange
+255 Extracellular exchange
+256 Extracellular exchange
+257 Extracellular exchange
+258 Extracellular exchange
+259 Extracellular exchange
+260 Extracellular exchange
+261 Extracellular exchange
+262 Extracellular exchange
+263 Extracellular exchange
+264 Extracellular exchange
+265 Extracellular exchange
+266 Extracellular exchange
+267 Extracellular exchange
+268 Extracellular exchange
+269 Extracellular exchange
+270 Extracellular exchange
+271 Extracellular exchange
+272 Extracellular exchange
+273 Extracellular exchange
+274 Extracellular exchange
+275 Extracellular exchange
+276 Extracellular exchange
+277 Extracellular exchange
+278 Extracellular exchange
+279 Extracellular exchange
+280 Extracellular exchange
+281 Extracellular exchange
+282 Extracellular exchange
+283 Extracellular exchange
+284 Extracellular exchange
+285 Extracellular exchange
+286 Extracellular exchange
+287 Extracellular exchange
+288 Extracellular exchange
+289 Extracellular exchange
+290 Extracellular exchange
+291 Extracellular exchange
+292 Extracellular exchange
+293 Extracellular exchange
+294 Extracellular exchange
+295 Extracellular exchange
+296 Extracellular exchange
+297 Extracellular exchange
+298 Extracellular exchange
+299 Extracellular exchange
+300 Extracellular exchange
+301 Extracellular exchange
+302 Extracellular exchange
+303 Extracellular exchange
+304 Extracellular exchange
+305 Extracellular exchange
+306 Extracellular exchange
+307 Extracellular exchange
+308 Extracellular exchange
+309 Extracellular exchange
+310 Extracellular exchange
+311 Extracellular exchange
+312 Extracellular exchange
+313 Extracellular exchange
+314 Extracellular exchange
+315 Extracellular exchange
+316 Extracellular exchange
+317 Extracellular exchange
+318 Extracellular exchange
+319 Extracellular exchange
+320 Extracellular exchange
+321 Extracellular exchange
+322 Extracellular exchange
+323 Extracellular exchange
+324 Extracellular exchange
+325 Extracellular exchange
+326 Extracellular exchange
+327 Extracellular exchange
+328 Extracellular exchange
+329 Extracellular exchange
+330 Extracellular exchange
+331 Extracellular exchange
+332 Extracellular exchange
+333 Extracellular exchange
+334 Extracellular exchange
+335 Extracellular exchange
+336 Extracellular exchange
+337 Extracellular exchange
+338 Extracellular exchange
+339 Extracellular exchange
+340 Extracellular exchange
+341 Extracellular exchange
+342 Extracellular exchange
+343 Extracellular exchange
+344 Extracellular exchange
+345 Extracellular exchange
+346 Extracellular exchange
+347 Extracellular exchange
+348 Extracellular exchange
+349 Extracellular exchange
+350 Extracellular exchange
+351 Extracellular exchange
+352 Extracellular exchange
+353 Extracellular exchange
+354 Extracellular exchange
+355 Extracellular exchange
+356 Extracellular exchange
+357 Extracellular exchange
+358 Extracellular exchange
+359 Extracellular exchange
+360 Extracellular exchange
+361 Extracellular exchange
+362 Extracellular exchange
+363 Extracellular exchange
+364 Extracellular exchange
+365 Extracellular exchange
+366 Extracellular exchange
+367 Extracellular exchange
+368 Extracellular exchange
+369 Extracellular exchange
+370 Extracellular exchange
+371 Extracellular exchange
+372 Extracellular exchange
+373 Extracellular exchange
+374 Extracellular exchange
+375 Extracellular exchange
+376 Extracellular exchange
+377 Extracellular exchange
+378 Extracellular exchange
+379 Extracellular exchange
+380 Extracellular exchange
+381 Extracellular exchange
+382 Extracellular exchange
+383 Extracellular exchange
+384 Extracellular exchange
+385 Extracellular exchange
+386 Extracellular exchange
+387 Extracellular exchange
+388 Extracellular exchange
+389 Extracellular exchange
+390 Extracellular exchange
+391 Extracellular exchange
+392 Extracellular exchange
+393 Extracellular exchange
+394 Extracellular exchange
+395 Extracellular exchange
+396 Extracellular exchange
+397 Extracellular exchange
+398 Extracellular exchange
+399 Extracellular exchange
+400 Extracellular exchange
+401 Extracellular exchange
+402 Extracellular exchange
+403 Extracellular exchange
+404 Extracellular exchange
+405 Extracellular exchange
+406 Extracellular exchange
+407 Extracellular exchange
+408 Extracellular exchange
+409 Extracellular exchange
+410 Transport, Lysosomal
+411 Transport, Mitochondrial
+412 Transport, Lysosomal
+413 Transport, Mitochondrial
+414 Transport, Lysosomal
+415 Transport, Mitochondrial
+416 Transport, Lysosomal
+417 Transport, Mitochondrial
+418 beta-Alanine metabolism
+419 Transport, Extracellular
+420 Unknown
+421 Unknown
+422 Unknown
+423 Unknown
+424 Unknown
+425 Unknown
+426 Unknown
+427 Unknown
+428 Unknown
+429 Unknown
+430 Transport, Extracellular
+431 Transport, Extracellular
+432 Transport, Extracellular
+433 Unknown
+434 Transport, Mitochondrial
+435 Transport, Extracellular
+436 Transport, Extracellular
+437 Unknown
+438 Transport, Mitochondrial
+439 Vitamin D
+440 Vitamin D
+441 Pyrimidine Catabolism
+442 Propanoate Metabolism
+443 Transport, Extracellular
+444 Transport, Extracellular
+445 Transport, Extracellular
+446 Lysine Metabolism
+447 Tryptophan metabolism
+448 Tyrosine metabolism
+449 Unknown
+450 Unknown
+451 Ubiquinone Biosynthesis
+452 Transport, Nuclear
+453 Valine, Leucine, and Isoleucine Metabolism
+454 Transport, Extracellular
+455 Transport, Mitochondrial
+456 Ubiquinone Biosynthesis
+457 Ubiquinone Biosynthesis
+458 Sphingolipid Metabolism
+459 Tryptophan metabolism
+460 Butanoate Metabolism
+461 Valine, Leucine, and Isoleucine Metabolism
+462 Transport, Extracellular
+463 Tyrosine metabolism
+464 beta-Alanine metabolism
+465 Tryptophan metabolism
+466 Tryptophan metabolism
+467 Tyrosine metabolism
+468 Transport, Extracellular
+469 Transport, Mitochondrial
+470 Transport, Mitochondrial
+471 Tyrosine metabolism
+472 Unknown
+473 Tyrosine metabolism
+474 Nucleic acid degradation
+475 Transport, Mitochondrial
+476 Cysteine Metabolism
+477 Cysteine Metabolism
+478 Tyrosine metabolism
+479 Tyrosine metabolism
+480 Tyrosine metabolism
+481 Transport, Mitochondrial
+482 Ubiquinone Biosynthesis
+483 Ubiquinone Biosynthesis
+484 Transport, Extracellular
+485 Arginine and Proline Metabolism
+486 Unknown
+487 Transport, Mitochondrial
+488 Unknown
+489 Unknown
+490 Unknown
+491 Transport, Extracellular
+492 CYP Metabolism
+493 Transport, Extracellular
+494 Transport, Extracellular
+495 Transport, Extracellular
+496 Transport, Endoplasmic Reticular
+497 Transport, Extracellular
+498 Transport, Endoplasmic Reticular
+499 Transport, Lysosomal
+500 Transport, Extracellular
+501 Tryptophan metabolism
+502 Tryptophan metabolism
+503 Tryptophan metabolism
+504 Tryptophan metabolism
+505 Tryptophan metabolism
+506 Tryptophan metabolism
+507 Transport, Extracellular
+508 Tryptophan metabolism
+509 Tryptophan metabolism
+510 Transport, Extracellular
+511 Transport, Extracellular
+512 Transport, Lysosomal
+513 Transport, Mitochondrial
+514 Transport, Lysosomal
+515 Transport, Mitochondrial
+516 Transport, Extracellular
+517 Transport, Lysosomal
+518 Transport, Mitochondrial
+519 Transport, Endoplasmic Reticular
+520 Transport, Lysosomal
+521 Transport, Mitochondrial
+522 Transport, Lysosomal
+523 Transport, Mitochondrial
+524 Sphingolipid Metabolism
+525 Sphingolipid Metabolism
+526 Propanoate Metabolism
+527 Blood Group Biosynthesis
+528 Blood Group Biosynthesis
+529 Blood Group Biosynthesis
+530 Blood Group Biosynthesis
+531 Blood Group Biosynthesis
+532 Blood Group Biosynthesis
+533 Blood Group Biosynthesis
+534 Blood Group Biosynthesis
+535 Blood Group Biosynthesis
+536 Glutamate metabolism
+537 Pentose and Glucuronate Interconversions
+538 Unknown
+539 beta-Alanine metabolism
+540 Transport, Extracellular
+541 Transport, Lysosomal
+542 Unknown
+543 Unknown
+544 Valine, Leucine, and Isoleucine Metabolism
+545 Cholesterol Metabolism
+546 Tryptophan metabolism
+547 Cholesterol Metabolism
+548 Fatty Acid Metabolism
+549 Fatty Acid Metabolism
+550 Fatty Acid Metabolism
+551 Fatty Acid Metabolism
+552 Fatty Acid Metabolism
+553 Fatty Acid Metabolism
+554 Transport, Extracellular
+555 Transport, Mitochondrial
+556 Transport, Peroxisomal
+557 Transport, Extracellular
+558 Transport, Mitochondrial
+559 Unknown
+560 Transport, Peroxisomal
+561 Fatty Acid Metabolism
+562 Unknown
+563 Propanoate Metabolism
+564 Propanoate Metabolism
+565 Transport, Extracellular
+566 Transport, Nuclear
+567 Transport, Endoplasmic Reticular
+568 Transport, Extracellular
+569 Transport, Mitochondrial
+570 Transport, Golgi Apparatus
+571 Transport, Lysosomal
+572 Transport, Extracellular
+573 Transport, Golgi Apparatus
+574 Transport, Extracellular
+575 Transport, Golgi Apparatus
+576 Transport, Lysosomal
+577 Aminosugar Metabolism
+578 Unknown
+579 Aminosugar Metabolism
+580 Aminosugar Metabolism
+581 Transport, Lysosomal
+582 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+583 Glycerophospholipid Metabolism
+584 Transport, Extracellular
+585 Citric Acid Cycle
+586 Transport, Extracellular
+587 Transport, Golgi Apparatus
+588 Transport, Extracellular
+589 Transport, Golgi Apparatus
+590 Transport, Extracellular
+591 Transport, Golgi Apparatus
+592 Transport, Extracellular
+593 Transport, Golgi Apparatus
+594 Aminosugar Metabolism
+595 Aminosugar Metabolism
+596 Aminosugar Metabolism
+597 Transport, Lysosomal
+598 Transport, Nuclear
+599 Transport, Extracellular
+600 Transport, Golgi Apparatus
+601 Unknown
+602 Valine, Leucine, and Isoleucine Metabolism
+603 Butanoate Metabolism
+604 Valine, Leucine, and Isoleucine Metabolism
+605 Valine, Leucine, and Isoleucine Metabolism
+606 Unknown
+607 Fatty Acid Metabolism
+608 Fatty Acid Metabolism
+609 Urea cycle/amino group metabolism
+610 Citric Acid Cycle
+611 Citric Acid Cycle
+612 Bile Acid Biosynthesis
+613 Bile Acid Biosynthesis
+614 Unknown
+615 Transport, Mitochondrial
+616 Glycolysis/Gluconeogenesis
+617 Propanoate Metabolism
+618 Glycolysis/Gluconeogenesis
+619 Pyruvate Metabolism
+620 Pyruvate Metabolism
+621 Glycolysis/Gluconeogenesis
+622 Transport, Mitochondrial
+623 Transport, Extracellular
+624 Transport, Golgi Apparatus
+625 Purine Catabolism
+626 Nucleotides
+627 Propanoate Metabolism
+628 Transport, Extracellular
+629 Transport, Lysosomal
+630 Transport, Peroxisomal
+631 Nucleotides
+632 Nucleotides
+633 Nucleotides
+634 Nucleotides
+635 Nucleotides
+636 Arginine and Proline Metabolism
+637 Nucleotides
+638 Nucleotides
+639 Nucleotides
+640 Transport, Extracellular
+641 Transport, Extracellular
+642 Transport, Extracellular
+643 Transport, Lysosomal
+644 Transport, Mitochondrial
+645 Nucleotides
+646 Nucleotides
+647 Nucleotides
+648 Nucleotides
+649 Transport, Extracellular
+650 Salvage Pathway
+651 Transport, Peroxisomal
+652 Transport, Peroxisomal
+653 Carnitine shuttle
+654 Carnitine shuttle
+655 Carnitine shuttle
+656 Transport, Extracellular
+657 Transport, Extracellular
+658 Selenoamino acid metabolism
+659 Nucleotides
+660 Nucleotides
+661 IMP Biosynthesis
+662 Nucleotides
+663 Transport, Extracellular
+664 Keratan sulfate biosynthesis
+665 Keratan sulfate biosynthesis
+666 Keratan sulfate biosynthesis
+667 Keratan sulfate biosynthesis
+668 Keratan sulfate biosynthesis
+669 Keratan sulfate biosynthesis
+670 Keratan sulfate biosynthesis
+671 Keratan sulfate biosynthesis
+672 Keratan sulfate biosynthesis
+673 Keratan sulfate biosynthesis
+674 Keratan sulfate biosynthesis
+675 Keratan sulfate biosynthesis
+676 Keratan sulfate biosynthesis
+677 Keratan sulfate biosynthesis
+678 Keratan sulfate biosynthesis
+679 Keratan sulfate biosynthesis
+680 Keratan sulfate biosynthesis
+681 Keratan sulfate biosynthesis
+682 Glycerophospholipid Metabolism
+683 Glycerophospholipid Metabolism
+684 Glycerophospholipid Metabolism
+685 Glycerophospholipid Metabolism
+686 Glycerophospholipid Metabolism
+687 Glycerophospholipid Metabolism
+688 Arginine and Proline Metabolism
+689 Triacylglycerol Synthesis
+690 Urea cycle/amino group metabolism
+691 Glycerophospholipid Metabolism
+692 Transport, Peroxisomal
+693 Transport, Extracellular
+694 Transport, Endoplasmic Reticular
+695 Methionine Metabolism
+696 Transport, Nuclear
+697 Transport, Endoplasmic Reticular
+698 Extracellular exchange
+699 Extracellular exchange
+700 IMP Biosynthesis
+701 IMP Biosynthesis
+702 Unknown
+703 Citric Acid Cycle
+704 Transport, Mitochondrial
+705 Transport, Extracellular
+706 Transport, Peroxisomal
+707 Bile Acid Biosynthesis
+708 Bile Acid Biosynthesis
+709 Transport, Extracellular
+710 Transport, Extracellular
+711 Transport, Extracellular
+712 Transport, Extracellular
+713 Transport, Extracellular
+714 Transport, Extracellular
+715 Transport, Extracellular
+716 Alanine and Aspartate Metabolism
+717 Transport, Extracellular
+718 Glycine, Serine, and Threonine Metabolism
+719 Glutamate metabolism
+720 Transport, Extracellular
+721 Transport, Extracellular
+722 Transport, Lysosomal
+723 Transport, Extracellular
+724 Transport, Extracellular
+725 Miscellaneous
+726 Pyruvate Metabolism
+727 Unknown
+728 Pyruvate Metabolism
+729 Pyruvate Metabolism
+730 Unknown
+731 Tryptophan metabolism
+732 Tryptophan metabolism
+733 Fatty Acid Metabolism
+734 Glycolysis/Gluconeogenesis
+735 Glycolysis/Gluconeogenesis
+736 Glycolysis/Gluconeogenesis
+737 Transport, Extracellular
+738 Glycerophospholipid Metabolism
+739 Eicosanoid Metabolism
+740 Eicosanoid Metabolism
+741 Eicosanoid Metabolism
+742 Eicosanoid Metabolism
+743 Eicosanoid Metabolism
+744 Glycine, Serine, and Threonine Metabolism
+745 Pyruvate Metabolism
+746 Pyruvate Metabolism
+747 Tryptophan metabolism
+748 Bile Acid Biosynthesis
+749 Bile Acid Biosynthesis
+750 Bile Acid Biosynthesis
+751 Bile Acid Biosynthesis
+752 Aminosugar Metabolism
+753 Tryptophan metabolism
+754 Transport, Endoplasmic Reticular
+755 Transport, Mitochondrial
+756 Transport, Nuclear
+757 Nucleotides
+758 Glutathione Metabolism
+759 Glutathione Metabolism
+760 Transport, Peroxisomal
+761 Transport, Endoplasmic Reticular
+762 Starch and Sucrose Metabolism
+763 Starch and Sucrose Metabolism
+764 Transport, Extracellular
+765 Unknown
+766 Transport, Extracellular
+767 Transport, Endoplasmic Reticular
+768 Nucleotides
+769 beta-Alanine metabolism
+770 Arginine and Proline Metabolism
+771 Transport, Extracellular
+772 Unknown
+773 Pentose and Glucuronate Interconversions
+774 Transport, Peroxisomal
+775 Carnitine shuttle
+776 Carnitine shuttle
+777 Carnitine shuttle
+778 Transport, Peroxisomal
+779 Transport, Extracellular
+780 Transport, Endoplasmic Reticular
+781 Transport, Extracellular
+782 Arginine and Proline Metabolism
+783 Transport, Extracellular
+784 Urea cycle/amino group metabolism
+785 Urea cycle/amino group metabolism
+786 Alanine and Aspartate Metabolism
+787 Alanine and Aspartate Metabolism
+788 Transport, Extracellular
+789 Unknown
+790 Transport, Mitochondrial
+791 Sphingolipid Metabolism
+792 R Group Synthesis
+793 R Group Synthesis
+794 R Group Synthesis
+795 R Group Synthesis
+796 R Group Synthesis
+797 R Group Synthesis
+798 R Group Synthesis
+799 R Group Synthesis
+800 R Group Synthesis
+801 R Group Synthesis
+802 R Group Synthesis
+803 R Group Synthesis
+804 R Group Synthesis
+805 R Group Synthesis
+806 R Group Synthesis
+807 R Group Synthesis
+808 R Group Synthesis
+809 R Group Synthesis
+810 R Group Synthesis
+811 R Group Synthesis
+812 R Group Synthesis
+813 R Group Synthesis
+814 R Group Synthesis
+815 R Group Synthesis
+816 R Group Synthesis
+817 R Group Synthesis
+818 R Group Synthesis
+819 R Group Synthesis
+820 R Group Synthesis
+821 R Group Synthesis
+822 R Group Synthesis
+823 R Group Synthesis
+824 R Group Synthesis
+825 R Group Synthesis
+826 R Group Synthesis
+827 Sphingolipid Metabolism
+828 Ascorbate and Aldarate Metabolism
+829 Transport, Extracellular
+830 Transport, Extracellular
+831 Transport, Extracellular
+832 Transport, Extracellular
+833 Transport, Extracellular
+834 Alanine and Aspartate Metabolism
+835 Alanine and Aspartate Metabolism
+836 Transport, Extracellular
+837 Transport, Extracellular
+838 Transport, Extracellular
+839 Transport, Extracellular
+840 Transport, Mitochondrial
+841 Pyrimidine Biosynthesis
+842 Transport, Extracellular
+843 Transport, Peroxisomal
+844 Transport, Mitochondrial
+845 Alanine and Aspartate Metabolism
+846 Alanine and Aspartate Metabolism
+847 Transport, Extracellular
+848 Transport, Endoplasmic Reticular
+849 Transport, Endoplasmic Reticular
+850 Nucleotides
+851 Nucleotides
+852 Oxidative Phosphorylation
+853 Transport, Lysosomal
+854 Transport, Mitochondrial
+855 Transport, Nuclear
+856 Transport, Peroxisomal
+857 Transport, Extracellular
+858 Transport, Extracellular
+859 N-Glycan Degradation
+860 N-Glycan Degradation
+861 Unknown
+862 Sphingolipid Metabolism
+863 Sphingolipid Metabolism
+864 Sphingolipid Metabolism
+865 Sphingolipid Metabolism
+866 Sphingolipid Metabolism
+867 Blood Group Biosynthesis
+868 Blood Group Biosynthesis
+869 Blood Group Biosynthesis
+870 Transport, Extracellular
+871 Transport, Mitochondrial
+872 beta-Alanine metabolism
+873 beta-Alanine metabolism
+874 Lysine Metabolism
+875 Butanoate Metabolism
+876 N-Glycan Biosynthesis
+877 N-Glycan Biosynthesis
+878 Glycine, Serine, and Threonine Metabolism
+879 Glycine, Serine, and Threonine Metabolism
+880 Transport, Extracellular
+881 Transport, Mitochondrial
+882 Transport, Extracellular
+883 Transport, Extracellular
+884 Transport, Endoplasmic Reticular
+885 Transport, Extracellular
+886 Transport, Extracellular
+887 Transport, Endoplasmic Reticular
+888 Heme Degradation
+889 Transport, Extracellular
+890 Transport, Endoplasmic Reticular
+891 Transport, Nuclear
+892 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+893 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+894 Nucleotides
+895 Nucleotides
+896 Biotin Metabolism
+897 Biotin Metabolism
+898 Biotin Metabolism
+899 Biotin Metabolism
+900 Biotin Metabolism
+901 Biotin Metabolism
+902 Unknown
+903 Transport, Mitochondrial
+904 Transport, Extracellular
+905 Transport, Extracellular
+906 Transport, Nuclear
+907 Transport, Mitochondrial
+908 Transport, Extracellular
+909 Transport, Extracellular
+910 Transport, Extracellular
+911 Transport, Endoplasmic Reticular
+912 N-Glycan Degradation
+913 Cholesterol Metabolism
+914 Carnitine shuttle
+915 Carnitine shuttle
+916 Carnitine shuttle
+917 Carnitine shuttle
+918 Carnitine shuttle
+919 Carnitine shuttle
+920 Carnitine shuttle
+921 Carnitine shuttle
+922 Carnitine shuttle
+923 Carnitine shuttle
+924 Carnitine shuttle
+925 Carnitine shuttle
+926 Carnitine shuttle
+927 Carnitine shuttle
+928 Carnitine shuttle
+929 Carnitine shuttle
+930 Carnitine shuttle
+931 Carnitine shuttle
+932 Transport, Peroxisomal
+933 Carnitine shuttle
+934 Carnitine shuttle
+935 Carnitine shuttle
+936 Limonene and pinene degradation
+937 Limonene and pinene degradation
+938 Cholesterol Metabolism
+939 Cholesterol Metabolism
+940 Cholesterol Metabolism
+941 Cholesterol Metabolism
+942 Cholesterol Metabolism
+943 Cholesterol Metabolism
+944 Transport, Extracellular
+945 Transport, Extracellular
+946 Glycolysis/Gluconeogenesis
+947 ROS Detoxification
+948 Miscellaneous
+949 Transport, Extracellular
+950 Vitamin B12 Metabolism
+951 Transport, Mitochondrial
+952 Vitamin B12 Metabolism
+953 Glycolysis/Gluconeogenesis
+954 Pyrimidine Biosynthesis
+955 Glutamate metabolism
+956 Transport, Endoplasmic Reticular
+957 Eicosanoid Metabolism
+958 Eicosanoid Metabolism
+959 Transport, Extracellular
+960 Glycerophospholipid Metabolism
+961 Transport, Mitochondrial
+962 Glycerophospholipid Metabolism
+963 Glycerophospholipid Metabolism
+964 Glycerophospholipid Metabolism
+965 Glycerophospholipid Metabolism
+966 Sphingolipid Metabolism
+967 Transport, Golgi Apparatus
+968 Transport, Endoplasmic Reticular
+969 Transport, Golgi Apparatus
+970 Transport, Endoplasmic Reticular
+971 Unknown
+972 Transport, Extracellular
+973 Glycerophospholipid Metabolism
+974 Glycerophospholipid Metabolism
+975 Transport, Mitochondrial
+976 Transport, Extracellular
+977 Transport, Extracellular
+978 Glycine, Serine, and Threonine Metabolism
+979 Glycerophospholipid Metabolism
+980 Transport, Golgi Apparatus
+981 Transport, Lysosomal
+982 Transport, Extracellular
+983 Transport, Golgi Apparatus
+984 Transport, Nuclear
+985 Transport, Endoplasmic Reticular
+986 Transport, Extracellular
+987 Steroid Metabolism
+988 Transport, Extracellular
+989 Transport, Mitochondrial
+990 Transport, Mitochondrial
+991 Transport, Mitochondrial
+992 Transport, Golgi Apparatus
+993 Aminosugar Metabolism
+994 Aminosugar Metabolism
+995 Citric Acid Cycle
+996 Transport, Mitochondrial
+997 Transport, Extracellular
+998 Transport, Extracellular
+999 Transport, Mitochondrial
+1000 Transport, Mitochondrial
+1001 Urea cycle/amino group metabolism
+1002 Urea cycle/amino group metabolism
+1003 Transport, Extracellular
+1004 Transport, Extracellular
+1005 Transport, Extracellular
+1006 Transport, Extracellular
+1007 Transport, Extracellular
+1008 Transport, Extracellular
+1009 Transport, Extracellular
+1010 Transport, Peroxisomal
+1011 Carnitine shuttle
+1012 Carnitine shuttle
+1013 Carnitine shuttle
+1014 Transport, Extracellular
+1015 Glycerophospholipid Metabolism
+1016 Transport, Golgi Apparatus
+1017 Transport, Nuclear
+1018 Unknown
+1019 Aminosugar Metabolism
+1020 Transport, Extracellular
+1021 Transport, Endoplasmic Reticular
+1022 Transport, Golgi Apparatus
+1023 Transport, Mitochondrial
+1024 Transport, Nuclear
+1025 Transport, Peroxisomal
+1026 Unknown
+1027 Transport, Lysosomal
+1028 Transport, Mitochondrial
+1029 Transport, Nuclear
+1030 Transport, Peroxisomal
+1031 Transport, Endoplasmic Reticular
+1032 Alkaloid biosynthesis II
+1033 Ubiquinone Biosynthesis
+1034 Ubiquinone Biosynthesis
+1035 Ubiquinone Biosynthesis
+1036 Ubiquinone Biosynthesis
+1037 O-Glycan Biosynthesis
+1038 O-Glycan Biosynthesis
+1039 Ubiquinone Biosynthesis
+1040 Transport, Extracellular
+1041 Transport, Extracellular
+1042 Glycerophospholipid Metabolism
+1043 Heme Biosynthesis
+1044 Unknown
+1045 Urea cycle/amino group metabolism
+1046 Transport, Extracellular
+1047 Transport, Peroxisomal
+1048 Transport, Peroxisomal
+1049 Transport, Extracellular
+1050 Transport, Extracellular
+1051 Transport, Mitochondrial
+1052 Unknown
+1053 Transport, Extracellular
+1054 Transport, Peroxisomal
+1055 Unknown
+1056 Transport, Mitochondrial
+1057 Transport, Endoplasmic Reticular
+1058 Unknown
+1059 Transport, Mitochondrial
+1060 Transport, Endoplasmic Reticular
+1061 Transport, Extracellular
+1062 Unknown
+1063 Carnitine shuttle
+1064 Fatty Acid Metabolism
+1065 Carnitine shuttle
+1066 Fatty Acid Metabolism
+1067 Fatty Acid Metabolism
+1068 Fatty Acid Metabolism
+1069 Carnitine shuttle
+1070 Transport, Extracellular
+1071 Transport, Extracellular
+1072 Transport, Lysosomal
+1073 Transport, Extracellular
+1074 Transport, Lysosomal
+1075 Transport, Extracellular
+1076 Transport, Lysosomal
+1077 Transport, Extracellular
+1078 Transport, Lysosomal
+1079 Transport, Extracellular
+1080 Transport, Lysosomal
+1081 Citric Acid Cycle
+1082 Nucleotides
+1083 Pyrimidine Biosynthesis
+1084 Transport, Nuclear
+1085 Cysteine Metabolism
+1086 Transport, Extracellular
+1087 Transport, Mitochondrial
+1088 Oxidative Phosphorylation
+1089 Oxidative Phosphorylation
+1090 Oxidative Phosphorylation
+1091 Transport, Extracellular
+1092 Taurine and hypotaurine metabolism
+1093 Transport, Extracellular
+1094 Transport, Extracellular
+1095 Transport, Extracellular
+1096 Transport, Extracellular
+1097 Unknown
+1098 Transport, Extracellular
+1099 Cysteine Metabolism
+1100 Cysteine Metabolism
+1101 Cysteine Metabolism
+1102 Transport, Extracellular
+1103 Transport, Extracellular
+1104 Methionine Metabolism
+1105 Transport, Extracellular
+1106 Transport, Extracellular
+1107 Transport, Extracellular
+1108 Pyrimidine Catabolism
+1109 Nucleotides
+1110 Nucleotides
+1111 Nucleotides
+1112 Transport, Extracellular
+1113 Transport, Extracellular
+1114 Transport, Extracellular
+1115 Transport, Lysosomal
+1116 Transport, Mitochondrial
+1117 Transport, Nuclear
+1118 Nucleotides
+1119 Nucleotides
+1120 Nucleotides
+1121 Nucleotides
+1122 Nucleotides
+1123 Nucleotides
+1124 Nucleotides
+1125 Nucleotides
+1126 Nucleotides
+1127 Nucleotides
+1128 Nucleotides
+1129 Nucleotides
+1130 Nucleotides
+1131 Nucleotides
+1132 Nucleotides
+1133 Nucleotides
+1134 Nucleotides
+1135 Nucleotides
+1136 Nucleotides
+1137 Unknown
+1138 Nucleotides
+1139 Unknown
+1140 Nucleotides
+1141 Nucleotides
+1142 Nucleotides
+1143 Nucleotides
+1144 Nucleotides
+1145 Nucleotides
+1146 Nucleotides
+1147 Unknown
+1148 Unknown
+1149 Unknown
+1150 Nucleotides
+1151 Nucleotides
+1152 Nucleotides
+1153 Transport, Extracellular
+1154 Glycerophospholipid Metabolism
+1155 Glycerophospholipid Metabolism
+1156 Transport, Endoplasmic Reticular
+1157 Unknown
+1158 D-alanine metabolism
+1159 Transport, Extracellular
+1160 Transport, Lysosomal
+1161 D-alanine metabolism
+1162 Ascorbate and Aldarate Metabolism
+1163 Ascorbate and Aldarate Metabolism
+1164 Alanine and Aspartate Metabolism
+1165 Transport, Nuclear
+1166 Nucleotides
+1167 Nucleotides
+1168 Pyrimidine Catabolism
+1169 Transport, Peroxisomal
+1170 Carnitine shuttle
+1171 Carnitine shuttle
+1172 Carnitine shuttle
+1173 Transport, Extracellular
+1174 Transport, Nuclear
+1175 Pyrimidine Catabolism
+1176 Transport, Extracellular
+1177 Transport, Extracellular
+1178 N-Glycan Biosynthesis
+1179 N-Glycan Biosynthesis
+1180 N-Glycan Biosynthesis
+1181 N-Glycan Biosynthesis
+1182 N-Glycan Biosynthesis
+1183 N-Glycan Biosynthesis
+1184 Fatty acid elongation
+1185 Fatty acid elongation
+1186 Fatty acid elongation
+1187 Fatty acid elongation
+1188 Fatty acid elongation
+1189 Fatty acid elongation
+1190 Fatty acid elongation
+1191 Fatty acid elongation
+1192 Fatty acid elongation
+1193 Fatty acid elongation
+1194 Fatty acid elongation
+1195 Fatty acid elongation
+1196 Fatty acid elongation
+1197 Fatty acid elongation
+1198 Triacylglycerol Synthesis
+1199 Transport, Extracellular
+1200 Nucleotides
+1201 Nucleotides
+1202 Nucleotides
+1203 Transport, Extracellular
+1204 Transport, Mitochondrial
+1205 Transport, Nuclear
+1206 Pentose and Glucuronate Interconversions
+1207 Transport, Extracellular
+1208 Triacylglycerol Synthesis
+1209 Triacylglycerol Synthesis
+1210 Transport, Peroxisomal
+1211 Cholesterol Metabolism
+1212 Cholesterol Metabolism
+1213 Cholesterol Metabolism
+1214 Cholesterol Metabolism
+1215 Cholesterol Metabolism
+1216 Sphingolipid Metabolism
+1217 Sphingolipid Metabolism
+1218 Ubiquinone Biosynthesis
+1219 Transport, Extracellular
+1220 Transport, Extracellular
+1221 Unknown
+1222 Folate Metabolism
+1223 Transport, Lysosomal
+1224 Transport, Mitochondrial
+1225 Pyrimidine Biosynthesis
+1226 Pyrimidine Biosynthesis
+1227 Pyrimidine Catabolism
+1228 Tetrahydrobiopterin
+1229 Tetrahydrobiopterin
+1230 Transport, Nuclear
+1231 Transport, Extracellular
+1232 Transport, Lysosomal
+1233 Transport, Extracellular
+1234 Transport, Nuclear
+1235 Carnitine shuttle
+1236 Carnitine shuttle
+1237 Carnitine shuttle
+1238 Transport, Extracellular
+1239 Cholesterol Metabolism
+1240 Cholesterol Metabolism
+1241 Carnitine shuttle
+1242 Carnitine shuttle
+1243 Carnitine shuttle
+1244 Transport, Extracellular
+1245 Unknown
+1246 Unknown
+1247 NAD Metabolism
+1248 Transport, Nuclear
+1249 Selenoamino acid metabolism
+1250 Methionine Metabolism
+1251 Transport, Mitochondrial
+1252 Transport, Mitochondrial
+1253 Transport, Mitochondrial
+1254 Transport, Mitochondrial
+1255 Transport, Mitochondrial
+1256 Transport, Mitochondrial
+1257 Transport, Mitochondrial
+1258 Transport, Mitochondrial
+1259 Transport, Mitochondrial
+1260 Transport, Mitochondrial
+1261 Transport, Mitochondrial
+1262 Transport, Mitochondrial
+1263 Transport, Mitochondrial
+1264 Transport, Mitochondrial
+1265 Transport, Mitochondrial
+1266 Transport, Mitochondrial
+1267 Transport, Mitochondrial
+1268 Transport, Mitochondrial
+1269 Transport, Mitochondrial
+1270 Transport, Mitochondrial
+1271 Transport, Mitochondrial
+1272 Transport, Mitochondrial
+1273 Transport, Mitochondrial
+1274 Transport, Mitochondrial
+1275 Transport, Mitochondrial
+1276 Transport, Mitochondrial
+1277 Transport, Mitochondrial
+1278 Transport, Mitochondrial
+1279 Transport, Mitochondrial
+1280 Transport, Mitochondrial
+1281 Transport, Mitochondrial
+1282 Transport, Mitochondrial
+1283 Transport, Mitochondrial
+1284 Transport, Mitochondrial
+1285 Transport, Mitochondrial
+1286 Transport, Mitochondrial
+1287 Transport, Mitochondrial
+1288 Transport, Mitochondrial
+1289 Transport, Mitochondrial
+1290 Transport, Mitochondrial
+1291 Transport, Mitochondrial
+1292 Transport, Mitochondrial
+1293 Transport, Mitochondrial
+1294 Transport, Mitochondrial
+1295 Transport, Mitochondrial
+1296 Transport, Mitochondrial
+1297 Transport, Mitochondrial
+1298 Transport, Mitochondrial
+1299 Transport, Mitochondrial
+1300 Transport, Mitochondrial
+1301 Transport, Mitochondrial
+1302 Transport, Mitochondrial
+1303 Transport, Mitochondrial
+1304 Transport, Mitochondrial
+1305 Transport, Mitochondrial
+1306 Transport, Mitochondrial
+1307 Transport, Mitochondrial
+1308 Transport, Mitochondrial
+1309 Transport, Mitochondrial
+1310 Transport, Mitochondrial
+1311 Transport, Mitochondrial
+1312 Transport, Mitochondrial
+1313 Transport, Mitochondrial
+1314 Ascorbate and Aldarate Metabolism
+1315 Ascorbate and Aldarate Metabolism
+1316 Ascorbate and Aldarate Metabolism
+1317 Ascorbate and Aldarate Metabolism
+1318 N-Glycan Biosynthesis
+1319 N-Glycan Biosynthesis
+1320 N-Glycan Biosynthesis
+1321 N-Glycan Biosynthesis
+1322 N-Glycan Biosynthesis
+1323 N-Glycan Biosynthesis
+1324 N-Glycan Biosynthesis
+1325 N-Glycan Biosynthesis
+1326 N-Glycan Biosynthesis
+1327 N-Glycan Biosynthesis
+1328 N-Glycan Biosynthesis
+1329 N-Glycan Biosynthesis
+1330 N-Glycan Biosynthesis
+1331 N-Glycan Biosynthesis
+1332 N-Glycan Biosynthesis
+1333 N-Glycan Biosynthesis
+1334 N-Glycan Biosynthesis
+1335 N-Glycan Biosynthesis
+1336 N-Glycan Biosynthesis
+1337 N-Glycan Biosynthesis
+1338 N-Glycan Biosynthesis
+1339 N-Glycan Biosynthesis
+1340 N-Glycan Biosynthesis
+1341 N-Glycan Biosynthesis
+1342 N-Glycan Biosynthesis
+1343 N-Glycan Biosynthesis
+1344 N-Glycan Biosynthesis
+1345 N-Glycan Biosynthesis
+1346 N-Glycan Biosynthesis
+1347 N-Glycan Biosynthesis
+1348 N-Glycan Biosynthesis
+1349 N-Glycan Biosynthesis
+1350 N-Glycan Biosynthesis
+1351 N-Glycan Biosynthesis
+1352 Tyrosine metabolism
+1353 Tyrosine metabolism
+1354 Transport, Extracellular
+1355 Tyrosine metabolism
+1356 Transport, Extracellular
+1357 Unknown
+1358 Transport, Extracellular
+1359 CoA Biosynthesis
+1360 CoA Catabolism
+1361 Transport, Lysosomal
+1362 Ubiquinone Biosynthesis
+1363 Cholesterol Metabolism
+1364 Transport, Extracellular
+1365 Pentose Phosphate Pathway
+1366 Sphingolipid Metabolism
+1367 Transport, Nuclear
+1368 Nucleotides
+1369 Transport, Nuclear
+1370 Transport, Nuclear
+1371 Transport, Nuclear
+1372 Pyrimidine Catabolism
+1373 Pyrimidine Catabolism
+1374 Nucleotides
+1375 Nucleotides
+1376 Nucleotides
+1377 Transport, Extracellular
+1378 Transport, Nuclear
+1379 Nucleotides
+1380 Nucleotides
+1381 Transport, Extracellular
+1382 Transport, Extracellular
+1383 Transport, Extracellular
+1384 Cholesterol Metabolism
+1385 Cholesterol Metabolism
+1386 Valine, Leucine, and Isoleucine Metabolism
+1387 Tryptophan metabolism
+1388 Tryptophan metabolism
+1389 Valine, Leucine, and Isoleucine Metabolism
+1390 Alkaloid biosynthesis II
+1391 Arginine and Proline Metabolism
+1392 Arginine and Proline Metabolism
+1393 Arginine and Proline Metabolism
+1394 Carnitine shuttle
+1395 Carnitine shuttle
+1396 Carnitine shuttle
+1397 Transport, Extracellular
+1398 Carnitine shuttle
+1399 Carnitine shuttle
+1400 Carnitine shuttle
+1401 Transport, Extracellular
+1402 N-Glycan Degradation
+1403 N-Glycan Degradation
+1404 N-Glycan Degradation
+1405 N-Glycan Biosynthesis
+1406 N-Glycan Biosynthesis
+1407 N-Glycan Biosynthesis
+1408 N-Glycan Biosynthesis
+1409 N-Glycan Biosynthesis
+1410 N-Glycan Biosynthesis
+1411 Glycolysis/Gluconeogenesis
+1412 Transport, Extracellular
+1413 Transport, Extracellular
+1414 Transport, Endoplasmic Reticular
+1415 Unknown
+1416 Transport, Endoplasmic Reticular
+1417 Transport, Extracellular
+1418 Transport, Endoplasmic Reticular
+1419 Transport, Extracellular
+1420 Transport, Endoplasmic Reticular
+1421 Transport, Extracellular
+1422 Transport, Extracellular
+1423 Transport, Endoplasmic Reticular
+1424 Steroid Metabolism
+1425 Fatty acid oxidation
+1426 Fatty acid oxidation
+1427 Glycerophospholipid Metabolism
+1428 Glycerophospholipid Metabolism
+1429 Glycolysis/Gluconeogenesis
+1430 Transport, Extracellular
+1431 Transport, Peroxisomal
+1432 Unknown
+1433 Fructose and Mannose Metabolism
+1434 N-Glycan Biosynthesis
+1435 Fatty acid activation
+1436 Fatty acid activation
+1437 Unknown
+1438 Fatty acid activation
+1439 Fatty acid activation
+1440 Fatty acid CoA ligase octadecanoate
+1441 Fatty acid activation
+1442 Fatty acid activation
+1443 Unknown
+1444 Fatty acid activation
+1445 Fatty acid activation
+1446 Fatty acid activation
+1447 Fatty acid activation
+1448 Fatty acid activation
+1449 Fatty acid activation
+1450 Fatty acid activation
+1451 Fatty acid activation
+1452 Fatty acid activation
+1453 Fatty acid activation
+1454 Unknown
+1455 Fatty acid activation
+1456 Fatty acid activation
+1457 Fatty acid activation
+1458 Fatty acid activation
+1459 Fatty acid activation
+1460 Fatty acid activation
+1461 Unknown
+1462 Fatty acid activation
+1463 Fatty acid activation
+1464 Fatty acid activation
+1465 Fatty acid activation
+1466 Fatty acid activation
+1467 Fatty acid activation
+1468 Fatty acid activation
+1469 Unknown
+1470 Transport, Endoplasmic Reticular
+1471 Transport, Peroxisomal
+1472 Transport, Endoplasmic Reticular
+1473 Transport, Peroxisomal
+1474 Tyrosine metabolism
+1475 Transport, Lysosomal
+1476 Transport, Mitochondrial
+1477 Fatty acid oxidation
+1478 Fatty acid oxidation
+1479 Fatty acid oxidation
+1480 Fatty acid oxidation
+1481 Fatty acid oxidation
+1482 Fatty acid oxidation, peroxisome
+1483 Fatty acid activation
+1484 Fatty acid oxidation
+1485 Fatty acid oxidation
+1486 Fatty acid oxidation
+1487 Fatty acid oxidation, peroxisome
+1488 Fatty acid oxidation
+1489 Fatty acid oxidation
+1490 Fatty acid oxidation
+1491 Fatty acid oxidation
+1492 Fatty acid oxidation
+1493 Fatty acid oxidation
+1494 Fatty acid oxidation
+1495 Fatty acid oxidation, peroxisome
+1496 Fatty acid oxidation
+1497 Fatty acid oxidation, peroxisome
+1498 Fatty acid oxidation
+1499 Fatty acid oxidation, peroxisome
+1500 Fatty acid oxidation
+1501 Fatty acid oxidation
+1502 Fatty acid oxidation
+1503 Fatty acid oxidation
+1504 Fatty acid oxidation, peroxisome
+1505 Fatty acid oxidation
+1506 Fatty acid oxidation, peroxisome
+1507 Fatty acid oxidation
+1508 Fatty acid oxidation, peroxisome
+1509 Fatty acid oxidation
+1510 Fatty acid oxidation, peroxisome
+1511 Fatty acid oxidation
+1512 Fatty acid oxidation
+1513 Fatty acid oxidation, peroxisome
+1514 Fatty acid oxidation, peroxisome
+1515 Fatty acid oxidation, peroxisome
+1516 Fatty acid oxidation, peroxisome
+1517 Fatty acid oxidation, peroxisome
+1518 Fatty acid oxidation, peroxisome
+1519 Fatty acid oxidation, peroxisome
+1520 Fatty acid oxidation, peroxisome
+1521 Fatty acid oxidation
+1522 Fatty acid elongation
+1523 Fatty acid elongation
+1524 Fatty acid elongation
+1525 Fatty acid elongation
+1526 Fatty acid elongation
+1527 Fatty acid elongation
+1528 Transport, Extracellular
+1529 Transport, Extracellular
+1530 Transport, Extracellular
+1531 Transport, Extracellular
+1532 Transport, Extracellular
+1533 Transport, Extracellular
+1534 Transport, Extracellular
+1535 Transport, Extracellular
+1536 Transport, Extracellular
+1537 Glycolysis/Gluconeogenesis
+1538 Fructose and Mannose Metabolism
+1539 Glyoxylate and Dicarboxylate Metabolism
+1540 Glycolysis/Gluconeogenesis
+1541 Fructose and Mannose Metabolism
+1542 Heme Biosynthesis
+1543 Transport, Extracellular
+1544 Transport, Mitochondrial
+1545 Fructose and Mannose Metabolism
+1546 Riboflavin Metabolism
+1547 Folate Metabolism
+1548 Transport, Extracellular
+1549 Unknown
+1550 Transport, Endoplasmic Reticular
+1551 Transport, Nuclear
+1552 Folate Metabolism
+1553 Folate Metabolism
+1554 Folate Metabolism
+1555 Folate Metabolism
+1556 Folate Metabolism
+1557 Folate Metabolism
+1558 Folate Metabolism
+1559 Folate Metabolism
+1560 Folate Metabolism
+1561 Folate Metabolism
+1562 Folate Metabolism
+1563 Folate Metabolism
+1564 Folate Metabolism
+1565 Folate Metabolism
+1566 Folate Metabolism
+1567 Folate Metabolism
+1568 Folate Metabolism
+1569 Folate Metabolism
+1570 Transport, Peroxisomal
+1571 Transport, Peroxisomal
+1572 Cholesterol Metabolism
+1573 Transport, Extracellular
+1574 Transport, Extracellular
+1575 N-Glycan Biosynthesis
+1576 Folate Metabolism
+1577 Folate Metabolism
+1578 Folate Metabolism
+1579 Unknown
+1580 Unknown
+1581 Transport, Extracellular
+1582 Transport, Golgi Apparatus
+1583 Transport, Extracellular
+1584 Transport, Golgi Apparatus
+1585 Transport, Extracellular
+1586 Transport, Golgi Apparatus
+1587 Transport, Extracellular
+1588 Transport, Golgi Apparatus
+1589 Transport, Extracellular
+1590 Transport, Golgi Apparatus
+1591 Keratan sulfate degradation
+1592 Keratan sulfate degradation
+1593 N-Glycan Degradation
+1594 N-Glycan Degradation
+1595 Transport, Extracellular
+1596 Transport, Golgi Apparatus
+1597 Transport, Extracellular
+1598 Transport, Golgi Apparatus
+1599 Transport, Extracellular
+1600 Transport, Golgi Apparatus
+1601 Transport, Extracellular
+1602 Transport, Golgi Apparatus
+1603 Transport, Extracellular
+1604 Transport, Golgi Apparatus
+1605 Transport, Extracellular
+1606 Transport, Golgi Apparatus
+1607 Transport, Extracellular
+1608 Transport, Golgi Apparatus
+1609 Transport, Extracellular
+1610 Transport, Golgi Apparatus
+1611 Transport, Lysosomal
+1612 Citric Acid Cycle
+1613 Tyrosine metabolism
+1614 Transport, Mitochondrial
+1615 Transport, Mitochondrial
+1616 Transport, Mitochondrial
+1617 Citric Acid Cycle
+1618 Transport, Mitochondrial
+1619 Sphingolipid Metabolism
+1620 Blood Group Biosynthesis
+1621 Blood Group Biosynthesis
+1622 Blood Group Biosynthesis
+1623 Blood Group Biosynthesis
+1624 Blood Group Biosynthesis
+1625 Blood Group Biosynthesis
+1626 Blood Group Biosynthesis
+1627 Blood Group Biosynthesis
+1628 Blood Group Biosynthesis
+1629 Blood Group Biosynthesis
+1630 Blood Group Biosynthesis
+1631 Blood Group Biosynthesis
+1632 Blood Group Biosynthesis
+1633 Blood Group Biosynthesis
+1634 Blood Group Biosynthesis
+1635 Blood Group Biosynthesis
+1636 Blood Group Biosynthesis
+1637 Blood Group Biosynthesis
+1638 Blood Group Biosynthesis
+1639 Blood Group Biosynthesis
+1640 Blood Group Biosynthesis
+1641 Blood Group Biosynthesis
+1642 N-Glycan Biosynthesis
+1643 N-Glycan Biosynthesis
+1644 N-Glycan Biosynthesis
+1645 N-Glycan Biosynthesis
+1646 N-Glycan Biosynthesis
+1647 N-Glycan Biosynthesis
+1648 Keratan sulfate biosynthesis
+1649 Keratan sulfate biosynthesis
+1650 Keratan sulfate biosynthesis
+1651 Keratan sulfate biosynthesis
+1652 Keratan sulfate biosynthesis
+1653 Keratan sulfate biosynthesis
+1654 Keratan sulfate biosynthesis
+1655 Keratan sulfate biosynthesis
+1656 Keratan sulfate biosynthesis
+1657 Keratan sulfate biosynthesis
+1658 Keratan sulfate biosynthesis
+1659 Keratan sulfate biosynthesis
+1660 Keratan sulfate biosynthesis
+1661 Keratan sulfate biosynthesis
+1662 Keratan sulfate biosynthesis
+1663 Keratan sulfate biosynthesis
+1664 Keratan sulfate biosynthesis
+1665 Keratan sulfate biosynthesis
+1666 Keratan sulfate biosynthesis
+1667 Keratan sulfate biosynthesis
+1668 N-Glycan Biosynthesis
+1669 N-Glycan Biosynthesis
+1670 N-Glycan Biosynthesis
+1671 N-Glycan Biosynthesis
+1672 N-Glycan Biosynthesis
+1673 N-Glycan Biosynthesis
+1674 N-Glycan Biosynthesis
+1675 N-Glycan Biosynthesis
+1676 N-Glycan Biosynthesis
+1677 Glycerophospholipid Metabolism
+1678 Glycolysis/Gluconeogenesis
+1679 Arginine and Proline Metabolism
+1680 Urea cycle/amino group metabolism
+1681 Urea cycle/amino group metabolism
+1682 Aminosugar Metabolism
+1683 Pentose Phosphate Pathway
+1684 Unknown
+1685 Pentose Phosphate Pathway
+1686 Unknown
+1687 Glycolysis/Gluconeogenesis
+1688 Transport, Endoplasmic Reticular
+1689 Transport, Extracellular
+1690 Urea cycle/amino group metabolism
+1691 Transport, Endoplasmic Reticular
+1692 Transport, Extracellular
+1693 Keratan sulfate degradation
+1694 Keratan sulfate degradation
+1695 Keratan sulfate degradation
+1696 Keratan sulfate degradation
+1697 Keratan sulfate degradation
+1698 Keratan sulfate degradation
+1699 Keratan sulfate degradation
+1700 Keratan sulfate degradation
+1701 Keratan sulfate degradation
+1702 Keratan sulfate degradation
+1703 N-Glycan Degradation
+1704 Keratan sulfate degradation
+1705 Keratan sulfate degradation
+1706 Keratan sulfate degradation
+1707 Keratan sulfate degradation
+1708 Keratan sulfate degradation
+1709 Keratan sulfate degradation
+1710 Keratan sulfate degradation
+1711 Keratan sulfate degradation
+1712 Sphingolipid Metabolism
+1713 Transport, Extracellular
+1714 Transport, Golgi Apparatus
+1715 Transport, Extracellular
+1716 Transport, Golgi Apparatus
+1717 Transport, Extracellular
+1718 Transport, Golgi Apparatus
+1719 Transport, Extracellular
+1720 Transport, Golgi Apparatus
+1721 Transport, Lysosomal
+1722 Unknown
+1723 Chondroitin / heparan sulfate biosynthesis
+1724 Chondroitin / heparan sulfate biosynthesis
+1725 Chondroitin / heparan sulfate biosynthesis
+1726 Chondroitin / heparan sulfate biosynthesis
+1727 Chondroitin / heparan sulfate biosynthesis
+1728 O-Glycan Biosynthesis
+1729 Galactose metabolism
+1730 Transport, Lysosomal
+1731 Galactose metabolism
+1732 Chondroitin / heparan sulfate biosynthesis
+1733 Chondroitin / heparan sulfate biosynthesis
+1734 Unknown
+1735 Transport, Extracellular
+1736 Transport, Extracellular
+1737 Transport, Extracellular
+1738 Transport, Extracellular
+1739 Transport, Lysosomal
+1740 Starch and Sucrose Metabolism
+1741 Transport, Extracellular
+1742 Sphingolipid Metabolism
+1743 Sphingolipid Metabolism
+1744 Sphingolipid Metabolism
+1745 Sphingolipid Metabolism
+1746 Glycolysis/Gluconeogenesis
+1747 IMP Biosynthesis
+1748 N-Glycan Degradation
+1749 Keratan sulfate degradation
+1750 N-Glycan Degradation
+1751 Sphingolipid Metabolism
+1752 Sphingolipid Metabolism
+1753 Sphingolipid Metabolism
+1754 Transport, Extracellular
+1755 Transport, Lysosomal
+1756 Glyoxylate and Dicarboxylate Metabolism
+1757 Glyoxylate and Dicarboxylate Metabolism
+1758 Glycine, Serine, and Threonine Metabolism
+1759 Glycine, Serine, and Threonine Metabolism
+1760 Glycine, Serine, and Threonine Metabolism
+1761 Glycine, Serine, and Threonine Metabolism
+1762 Glycine, Serine, and Threonine Metabolism
+1763 Glycine, Serine, and Threonine Metabolism
+1764 Transport, Extracellular
+1765 Transport, Extracellular
+1766 Transport, Extracellular
+1767 Transport, Extracellular
+1768 Transport, Peroxisomal
+1769 Blood Group Biosynthesis
+1770 Transport, Extracellular
+1771 Transport, Golgi Apparatus
+1772 Transport, Extracellular
+1773 Transport, Golgi Apparatus
+1774 Transport, Extracellular
+1775 Transport, Golgi Apparatus
+1776 Transport, Golgi Apparatus
+1777 Aminosugar Metabolism
+1778 Fructose and Mannose Metabolism
+1779 Unknown
+1780 Unknown
+1781 Unknown
+1782 Unknown
+1783 Unknown
+1784 Unknown
+1785 Unknown
+1786 Unknown
+1787 Unknown
+1788 Unknown
+1789 Unknown
+1790 Unknown
+1791 Unknown
+1792 Unknown
+1793 Unknown
+1794 Unknown
+1795 Unknown
+1796 Unknown
+1797 Glutathione Metabolism
+1798 Starch and Sucrose Metabolism
+1799 Eicosanoid Metabolism
+1800 Eicosanoid Metabolism
+1801 N-Glycan Biosynthesis
+1802 N-Glycan Biosynthesis
+1803 Glycine, Serine, and Threonine Metabolism
+1804 Glycine, Serine, and Threonine Metabolism
+1805 Lysine Metabolism
+1806 Lysine Metabolism
+1807 Nucleotides
+1808 Nucleotides
+1809 Ascorbate and Aldarate Metabolism
+1810 Ascorbate and Aldarate Metabolism
+1811 Transport, Endoplasmic Reticular
+1812 Sphingolipid Metabolism
+1813 Sphingolipid Metabolism
+1814 Starch and Sucrose Metabolism
+1815 Heparan sulfate degradation
+1816 Chondroitin sulfate degradation
+1817 Chondroitin sulfate degradation
+1818 Chondroitin sulfate degradation
+1819 Chondroitin sulfate degradation
+1820 Hyaluronan Metabolism
+1821 Hyaluronan Metabolism
+1822 Chondroitin / heparan sulfate biosynthesis
+1823 Chondroitin / heparan sulfate biosynthesis
+1824 Chondroitin / heparan sulfate biosynthesis
+1825 Chondroitin / heparan sulfate biosynthesis
+1826 Chondroitin / heparan sulfate biosynthesis
+1827 Chondroitin / heparan sulfate biosynthesis
+1828 Chondroitin / heparan sulfate biosynthesis
+1829 Chondroitin / heparan sulfate biosynthesis
+1830 Chondroitin / heparan sulfate biosynthesis
+1831 Chondroitin / heparan sulfate biosynthesis
+1832 Transport, Extracellular
+1833 Heparan sulfate degradation
+1834 Heparan sulfate degradation
+1835 Heparan sulfate degradation
+1836 Heparan sulfate degradation
+1837 Heparan sulfate degradation
+1838 Chondroitin / heparan sulfate biosynthesis
+1839 N-Glycan Biosynthesis
+1840 N-Glycan Biosynthesis
+1841 Chondroitin / heparan sulfate biosynthesis
+1842 Chondroitin / heparan sulfate biosynthesis
+1843 Chondroitin / heparan sulfate biosynthesis
+1844 Chondroitin / heparan sulfate biosynthesis
+1845 Chondroitin / heparan sulfate biosynthesis
+1846 N-Glycan Biosynthesis
+1847 N-Glycan Biosynthesis
+1848 Transport, Endoplasmic Reticular
+1849 Transport, Lysosomal
+1850 Transport, Extracellular
+1851 Transport, Extracellular
+1852 Transport, Extracellular
+1853 Transport, Extracellular
+1854 Transport, Extracellular
+1855 Transport, Endoplasmic Reticular
+1856 Transport, Golgi Apparatus
+1857 Transport, Lysosomal
+1858 Starch and Sucrose Metabolism
+1859 Starch and Sucrose Metabolism
+1860 Transport, Extracellular
+1861 Transport, Extracellular
+1862 Transport, Extracellular
+1863 Ascorbate and Aldarate Metabolism
+1864 Glutamate metabolism
+1865 Transport, Extracellular
+1866 Transport, Extracellular
+1867 Transport, Extracellular
+1868 Transport, Extracellular
+1869 Transport, Mitochondrial
+1870 Starch and Sucrose Metabolism
+1871 Starch and Sucrose Metabolism
+1872 Ascorbate and Aldarate Metabolism
+1873 Urea cycle/amino group metabolism
+1874 Glutathione Metabolism
+1875 Glutamate metabolism
+1876 Glutamate metabolism
+1877 Glutamate metabolism
+1878 IMP Biosynthesis
+1879 Tryptophan metabolism
+1880 Transport, Extracellular
+1881 Transport, Mitochondrial
+1882 Transport, Extracellular
+1883 Transport, Lysosomal
+1884 Transport, Endoplasmic Reticular
+1885 Glyoxylate and Dicarboxylate Metabolism
+1886 Transport, Mitochondrial
+1887 Transport, Peroxisomal
+1888 Urea cycle/amino group metabolism
+1889 Glycine, Serine, and Threonine Metabolism
+1890 Transport, Extracellular
+1891 Transport, Mitochondrial
+1892 Unknown
+1893 Transport, Mitochondrial
+1894 Glyoxylate and Dicarboxylate Metabolism
+1895 Glyoxylate and Dicarboxylate Metabolism
+1896 Transport, Peroxisomal
+1897 Transport, Extracellular
+1898 Transport, Mitochondrial
+1899 Glycerophospholipid Metabolism
+1900 Glycerophospholipid Metabolism
+1901 Pyruvate Metabolism
+1902 Pyruvate Metabolism
+1903 Transport, Extracellular
+1904 Transport, Extracellular
+1905 Transport, Lysosomal
+1906 Transport, Extracellular
+1907 Unknown
+1908 Unknown
+1909 Transport, Mitochondrial
+1910 Transport, Peroxisomal
+1911 Fructose and Mannose Metabolism
+1912 Nucleotides
+1913 Nucleotides
+1914 Unknown
+1915 Transport, Nuclear
+1916 Pentose Phosphate Pathway
+1917 Pentose Phosphate Pathway
+1918 Glycine, Serine, and Threonine Metabolism
+1919 Transport, Extracellular
+1920 Transport, Golgi Apparatus
+1921 Transport, Extracellular
+1922 Transport, Golgi Apparatus
+1923 Triacylglycerol Synthesis
+1924 Triacylglycerol Synthesis
+1925 Glycerophospholipid Metabolism
+1926 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1927 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1928 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1929 Transport, Extracellular
+1930 Transport, Golgi Apparatus
+1931 Transport, Extracellular
+1932 Transport, Golgi Apparatus
+1933 Cholesterol Metabolism
+1934 Cholesterol Metabolism
+1935 Nucleotides
+1936 Transport, Extracellular
+1937 Transport, Extracellular
+1938 Transport, Extracellular
+1939 Transport, Lysosomal
+1940 Transport, Mitochondrial
+1941 Transport, Extracellular
+1942 Transport, Golgi Apparatus
+1943 Ascorbate and Aldarate Metabolism
+1944 Unknown
+1945 Glutamate metabolism
+1946 Unknown
+1947 Glutathione Metabolism
+1948 Glutathione Metabolism
+1949 Glutathione Metabolism
+1950 Transport, Endoplasmic Reticular
+1951 Glutathione Metabolism
+1952 Glutathione Metabolism
+1953 Tetrahydrobiopterin
+1954 Tetrahydrobiopterin
+1955 Transport, Nuclear
+1956 Nucleotides
+1957 Purine Catabolism
+1958 Salvage Pathway
+1959 Transport, Extracellular
+1960 Transport, Endoplasmic Reticular
+1961 Pentose and Glucuronate Interconversions
+1962 Pentose and Glucuronate Interconversions
+1963 Transport, Endoplasmic Reticular
+1964 Pentose and Glucuronate Interconversions
+1965 Histidine Metabolism
+1966 Miscellaneous
+1967 Miscellaneous
+1968 Miscellaneous
+1969 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1970 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1971 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1972 Transport, Extracellular
+1973 Transport, Lysosomal
+1974 Transport, Mitochondrial
+1975 Transport, Nuclear
+1976 Transport, Peroxisomal
+1977 Transport, Extracellular
+1978 Transport, Endoplasmic Reticular
+1979 Transport, Golgi Apparatus
+1980 Transport, Lysosomal
+1981 Transport, Mitochondrial
+1982 Transport, Nuclear
+1983 Transport, Peroxisomal
+1984 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1985 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1986 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1987 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1988 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1989 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1990 Unknown
+1991 Unknown
+1992 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1993 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1994 Unknown
+1995 Unknown
+1996 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1997 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1998 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+1999 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+2000 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+2001 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+2002 Tryptophan metabolism
+2003 Tryptophan metabolism
+2004 Valine, Leucine, and Isoleucine Metabolism
+2005 Hyaluronan Metabolism
+2006 Hyaluronan Metabolism
+2007 Transport, Lysosomal
+2008 Ubiquinone Biosynthesis
+2009 Urea cycle/amino group metabolism
+2010 Transport, Extracellular
+2011 Transport, Extracellular
+2012 Transport, Extracellular
+2013 Transport, Endoplasmic Reticular
+2014 Unknown
+2015 Unknown
+2016 Transport, Peroxisomal
+2017 Transport, Extracellular
+2018 Transport, Endoplasmic Reticular
+2019 Extracellular exchange
+2020 Extracellular exchange
+2021 Extracellular exchange
+2022 Extracellular exchange
+2023 Extracellular exchange
+2024 Extracellular exchange
+2025 Extracellular exchange
+2026 Extracellular exchange
+2027 Extracellular exchange
+2028 Valine, Leucine, and Isoleucine Metabolism
+2029 Unknown
+2030 Histidine Metabolism
+2031 Histidine Metabolism
+2032 Transport, Extracellular
+2033 Transport, Extracellular
+2034 Transport, Extracellular
+2035 Transport, Extracellular
+2036 Transport, Extracellular
+2037 Tryptophan metabolism
+2038 Transport, Extracellular
+2039 Heme Biosynthesis
+2040 Cholesterol Metabolism
+2041 Cholesterol Metabolism
+2042 Unknown
+2043 Cholesterol Metabolism
+2044 Transport, Mitochondrial
+2045 Transport, Peroxisomal
+2046 Cholesterol Metabolism
+2047 Cholesterol Metabolism
+2048 Transport, Extracellular
+2049 Heme Degradation
+2050 Transport, Extracellular
+2051 Carnitine shuttle
+2052 Carnitine shuttle
+2053 Carnitine shuttle
+2054 Transport, Extracellular
+2055 Arginine and Proline Metabolism
+2056 Glyoxylate and Dicarboxylate Metabolism
+2057 Glyoxylate and Dicarboxylate Metabolism
+2058 Transport, Peroxisomal
+2059 Heparan sulfate degradation
+2060 Heparan sulfate degradation
+2061 Heparan sulfate degradation
+2062 Heparan sulfate degradation
+2063 Heparan sulfate degradation
+2064 Heparan sulfate degradation
+2065 Heparan sulfate degradation
+2066 Heparan sulfate degradation
+2067 Steroid Metabolism
+2068 Steroid Metabolism
+2069 Steroid Metabolism
+2070 Steroid Metabolism
+2071 Steroid Metabolism
+2072 Bile Acid Biosynthesis
+2073 Bile Acid Biosynthesis
+2074 Steroid Metabolism
+2075 Steroid Metabolism
+2076 Steroid Metabolism
+2077 Steroid Metabolism
+2078 Steroid Metabolism
+2079 Steroid Metabolism
+2080 Steroid Metabolism
+2081 Steroid Metabolism
+2082 Steroid Metabolism
+2083 Steroid Metabolism
+2084 Steroid Metabolism
+2085 Steroid Metabolism
+2086 Bile Acid Biosynthesis
+2087 Bile Acid Biosynthesis
+2088 Heparan sulfate degradation
+2089 Transport, Extracellular
+2090 Transport, Lysosomal
+2091 Transport, Lysosomal
+2092 Transport, Peroxisomal
+2093 Salvage Pathway
+2094 Vitamin B6 Metabolism
+2095 Taurine and hypotaurine metabolism
+2096 Transport, Extracellular
+2097 Unknown
+2098 Transport, Mitochondrial
+2099 Transport, Endoplasmic Reticular
+2100 Transport, Peroxisomal
+2101 Citric Acid Cycle
+2102 Unknown
+2103 Citric Acid Cycle
+2104 Citric Acid Cycle
+2105 Heparan sulfate degradation
+2106 Heparan sulfate degradation
+2107 Heparan sulfate degradation
+2108 Chondroitin sulfate degradation
+2109 Transport, Lysosomal
+2110 Transport, Nuclear
+2111 Valine, Leucine, and Isoleucine Metabolism
+2112 Valine, Leucine, and Isoleucine Metabolism
+2113 Transport, Extracellular
+2114 Unknown
+2115 Transport, Extracellular
+2116 Histidine Metabolism
+2117 Histidine Metabolism
+2118 IMP Biosynthesis
+2119 Nucleotides
+2120 Unknown
+2121 Transport, Extracellular
+2122 Transport, Extracellular
+2123 Transport, Extracellular
+2124 Transport, Extracellular
+2125 Transport, Extracellular
+2126 Transport, Lysosomal
+2127 Transport, Mitochondrial
+2128 Cholesterol Metabolism
+2129 Unknown
+2130 Unknown
+2131 C5-Branched dibasic acid metabolism
+2132 C5-Branched dibasic acid metabolism
+2133 Transport, Nuclear
+2134 Histidine Metabolism
+2135 Transport, Extracellular
+2136 Fatty acid elongation
+2137 Transport, Extracellular
+2138 Transport, Extracellular
+2139 Aminosugar Metabolism
+2140 Fructose and Mannose Metabolism
+2141 Glyoxylate and Dicarboxylate Metabolism
+2142 Galactose metabolism
+2143 Transport, Extracellular
+2144 Transport, Lysosomal
+2145 Transport, Extracellular
+2146 Transport, Lysosomal
+2147 Transport, Extracellular
+2148 Transport, Lysosomal
+2149 Tryptophan metabolism
+2150 Tryptophan metabolism
+2151 Tryptophan metabolism
+2152 Transport, Golgi Apparatus
+2153 Unknown
+2154 Unknown
+2155 Unknown
+2156 Unknown
+2157 Unknown
+2158 Galactose metabolism
+2159 Galactose metabolism
+2160 Pyruvate Metabolism
+2161 Pyruvate Metabolism
+2162 Pyruvate Metabolism
+2163 Pyruvate Metabolism
+2164 CoA Catabolism
+2165 Pyruvate Metabolism
+2166 Pyruvate Metabolism
+2167 Pyruvate Metabolism
+2168 Unknown
+2169 Transport, Extracellular
+2170 Cysteine Metabolism
+2171 Cysteine Metabolism
+2172 Glycolysis/Gluconeogenesis
+2173 Pyruvate Metabolism
+2174 Unknown
+2175 Transport, Endoplasmic Reticular
+2176 Unknown
+2177 Transport, Endoplasmic Reticular
+2178 Transport, Extracellular
+2179 Unknown
+2180 Transport, Endoplasmic Reticular
+2181 Unknown
+2182 Unknown
+2183 Valine, Leucine, and Isoleucine Metabolism
+2184 Valine, Leucine, and Isoleucine Metabolism
+2185 Transport, Extracellular
+2186 Transport, Mitochondrial
+2187 Transport, Extracellular
+2188 Tryptophan metabolism
+2189 Transport, Peroxisomal
+2190 Carnitine shuttle
+2191 Carnitine shuttle
+2192 Carnitine shuttle
+2193 Transport, Extracellular
+2194 Pyruvate Metabolism
+2195 Heparan sulfate degradation
+2196 Transport, Extracellular
+2197 Carnitine shuttle
+2198 Carnitine shuttle
+2199 Carnitine shuttle
+2200 Transport, Extracellular
+2201 Carnitine shuttle
+2202 Carnitine shuttle
+2203 Carnitine shuttle
+2204 Transport, Extracellular
+2205 Carnitine shuttle
+2206 Carnitine shuttle
+2207 Carnitine shuttle
+2208 Transport, Extracellular
+2209 Carnitine shuttle
+2210 Carnitine shuttle
+2211 Carnitine shuttle
+2212 Transport, Extracellular
+2213 Cholesterol Metabolism
+2214 Cholesterol Metabolism
+2215 Glycerophospholipid Metabolism
+2216 Unknown
+2217 Lysine Metabolism
+2218 Triacylglycerol Synthesis
+2219 Triacylglycerol Synthesis
+2220 Fatty Acid Metabolism
+2221 Triacylglycerol Synthesis
+2222 Fatty Acid Metabolism
+2223 Triacylglycerol Synthesis
+2224 Triacylglycerol Synthesis
+2225 Vitamin A Metabolism
+2226 Vitamin A Metabolism
+2227 Vitamin D
+2228 Cholesterol Metabolism
+2229 Cholesterol Metabolism
+2230 Eicosanoid Metabolism
+2231 Eicosanoid Metabolism
+2232 Eicosanoid Metabolism
+2233 Eicosanoid Metabolism
+2234 Tryptophan metabolism
+2235 Lysine Metabolism
+2236 Lysine Metabolism
+2237 Lysine Metabolism
+2238 Transport, Extracellular
+2239 Transport, Extracellular
+2240 Transport, Peroxisomal
+2241 Transport, Nuclear
+2242 N-Glycan Biosynthesis
+2243 N-Glycan Biosynthesis
+2244 N-Glycan Biosynthesis
+2245 N-Glycan Biosynthesis
+2246 N-Glycan Biosynthesis
+2247 N-Glycan Biosynthesis
+2248 N-Glycan Biosynthesis
+2249 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+2250 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+2251 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+2252 N-Glycan Biosynthesis
+2253 N-Glycan Biosynthesis
+2254 N-Glycan Biosynthesis
+2255 N-Glycan Biosynthesis
+2256 Tyrosine metabolism
+2257 Histidine Metabolism
+2258 Unknown
+2259 Transport, Mitochondrial
+2260 Transport, Mitochondrial
+2261 Starch and Sucrose Metabolism
+2262 Transport, Mitochondrial
+2263 Starch and Sucrose Metabolism
+2264 Starch and Sucrose Metabolism
+2265 Transport, Mitochondrial
+2266 Fructose and Mannose Metabolism
+2267 N-Glycan Biosynthesis
+2268 N-Glycan Biosynthesis
+2269 N-Glycan Biosynthesis
+2270 N-Glycan Biosynthesis
+2271 Fructose and Mannose Metabolism
+2272 Transport, Extracellular
+2273 Transport, Extracellular
+2274 Transport, Endoplasmic Reticular
+2275 Transport, Golgi Apparatus
+2276 Transport, Lysosomal
+2277 Tyrosine metabolism
+2278 Tyrosine metabolism
+2279 Valine, Leucine, and Isoleucine Metabolism
+2280 Fatty Acid Metabolism
+2281 Fatty Acid Metabolism
+2282 Fatty Acid Metabolism
+2283 Propanoate Metabolism
+2284 Cysteine Metabolism
+2285 Unknown
+2286 Fatty Acid Metabolism
+2287 Fatty Acid Metabolism
+2288 Cysteine Metabolism
+2289 Citric Acid Cycle
+2290 Citric Acid Cycle
+2291 Pyruvate Metabolism
+2292 Pyruvate Metabolism
+2293 Pyruvate Metabolism
+2294 C5-Branched dibasic acid metabolism
+2295 C5-Branched dibasic acid metabolism
+2296 Tryptophan metabolism
+2297 Tryptophan metabolism
+2298 Transport, Extracellular
+2299 Transport, Lysosomal
+2300 Transport, Endoplasmic Reticular
+2301 Transport, Extracellular
+2302 Transport, Extracellular
+2303 Methionine Metabolism
+2304 Transport, Extracellular
+2305 Methionine Metabolism
+2306 Transport, Extracellular
+2307 Transport, Extracellular
+2308 Cholesterol Metabolism
+2309 N-Glycan Biosynthesis
+2310 N-Glycan Biosynthesis
+2311 N-Glycan Biosynthesis
+2312 Valine, Leucine, and Isoleucine Metabolism
+2313 Pyruvate Metabolism
+2314 Pyruvate Metabolism
+2315 Histidine Metabolism
+2316 Inositol Phosphate Metabolism
+2317 Transport, Nuclear
+2318 Inositol Phosphate Metabolism
+2319 Inositol Phosphate Metabolism
+2320 Inositol Phosphate Metabolism
+2321 Transport, Nuclear
+2322 Inositol Phosphate Metabolism
+2323 Inositol Phosphate Metabolism
+2324 Inositol Phosphate Metabolism
+2325 Inositol Phosphate Metabolism
+2326 Inositol Phosphate Metabolism
+2327 Inositol Phosphate Metabolism
+2328 Inositol Phosphate Metabolism
+2329 Inositol Phosphate Metabolism
+2330 Inositol Phosphate Metabolism
+2331 Inositol Phosphate Metabolism
+2332 Inositol Phosphate Metabolism
+2333 Transport, Nuclear
+2334 Unknown
+2335 Inositol Phosphate Metabolism
+2336 Inositol Phosphate Metabolism
+2337 Inositol Phosphate Metabolism
+2338 Inositol Phosphate Metabolism
+2339 Inositol Phosphate Metabolism
+2340 Inositol Phosphate Metabolism
+2341 Transport, Nuclear
+2342 Starch and Sucrose Metabolism
+2343 Starch and Sucrose Metabolism
+2344 N-Glycan Biosynthesis
+2345 N-Glycan Biosynthesis
+2346 N-Glycan Biosynthesis
+2347 N-Glycan Biosynthesis
+2348 N-Glycan Biosynthesis
+2349 N-Glycan Biosynthesis
+2350 N-Glycan Biosynthesis
+2351 N-Glycan Biosynthesis
+2352 N-Glycan Biosynthesis
+2353 N-Glycan Biosynthesis
+2354 N-Glycan Biosynthesis
+2355 N-Glycan Biosynthesis
+2356 N-Glycan Biosynthesis
+2357 N-Glycan Biosynthesis
+2358 N-Glycan Biosynthesis
+2359 N-Glycan Biosynthesis
+2360 Valine, Leucine, and Isoleucine Metabolism
+2361 Valine, Leucine, and Isoleucine Metabolism
+2362 Valine, Leucine, and Isoleucine Metabolism
+2363 Valine, Leucine, and Isoleucine Metabolism
+2364 Valine, Leucine, and Isoleucine Metabolism
+2365 Valine, Leucine, and Isoleucine Metabolism
+2366 Propanoate Metabolism
+2367 Valine, Leucine, and Isoleucine Metabolism
+2368 Triacylglycerol Synthesis
+2369 Arginine and Proline Metabolism
+2370 Folate Metabolism
+2371 Folate Metabolism
+2372 Folate Metabolism
+2373 Unknown
+2374 Folate Metabolism
+2375 Folate Metabolism
+2376 Folate Metabolism
+2377 Transport, Extracellular
+2378 Transport, Extracellular
+2379 Transport, Lysosomal
+2380 O-Glycan Biosynthesis
+2381 Arginine and Proline Metabolism
+2382 Arginine and Proline Metabolism
+2383 Extracellular exchange
+2384 Extracellular exchange
+2385 Extracellular exchange
+2386 Extracellular exchange
+2387 Extracellular exchange
+2388 Extracellular exchange
+2389 Extracellular exchange
+2390 Extracellular exchange
+2391 Extracellular exchange
+2392 Extracellular exchange
+2393 Extracellular exchange
+2394 Extracellular exchange
+2395 Extracellular exchange
+2396 Extracellular exchange
+2397 Extracellular exchange
+2398 Extracellular exchange
+2399 Extracellular exchange
+2400 Extracellular exchange
+2401 Extracellular exchange
+2402 Extracellular exchange
+2403 Extracellular exchange
+2404 Extracellular exchange
+2405 Extracellular exchange
+2406 Extracellular exchange
+2407 Extracellular exchange
+2408 Extracellular exchange
+2409 Extracellular exchange
+2410 Unknown
+2411 Oxidative Phosphorylation
+2412 Transport, Peroxisomal
+2413 Transport, Endoplasmic Reticular
+2414 NAD Metabolism
+2415 NAD Metabolism
+2416 NAD Metabolism
+2417 Transport, Endoplasmic Reticular
+2418 Transport, Peroxisomal
+2419 NAD Metabolism
+2420 NAD Metabolism
+2421 Transport, Endoplasmic Reticular
+2422 Transport, Peroxisomal
+2423 NAD Metabolism
+2424 Transport, Nuclear
+2425 Transport, Peroxisomal
+2426 Transport, Endoplasmic Reticular
+2427 Keratan sulfate degradation
+2428 Sphingolipid Metabolism
+2429 Keratan sulfate degradation
+2430 Transport, Extracellular
+2431 Transport, Extracellular
+2432 Transport, Extracellular
+2433 Transport, Extracellular
+2434 Transport, Golgi Apparatus
+2435 Transport, Extracellular
+2436 Transport, Peroxisomal
+2437 Transport, Extracellular
+2438 Transport, Extracellular
+2439 Transport, Extracellular
+2440 Transport, Extracellular
+2441 Nucleotides
+2442 Nucleotides
+2443 Nucleotides
+2444 Nucleotides
+2445 Nucleotides
+2446 Nucleotides
+2447 Nucleotides
+2448 Nucleotides
+2449 Nucleotides
+2450 Nucleotides
+2451 Nucleotides
+2452 Nucleotides
+2453 Nucleotides
+2454 Nucleotides
+2455 Nucleotides
+2456 Nucleotides
+2457 Nucleotides
+2458 Nucleotides
+2459 Nucleotides
+2460 Nucleotides
+2461 Nucleotides
+2462 Nucleotides
+2463 Nucleotides
+2464 Nucleotides
+2465 Nucleotides
+2466 Nucleotides
+2467 Nucleotides
+2468 Nucleotides
+2469 Nucleotides
+2470 Nucleotides
+2471 Nucleotides
+2472 Nucleotides
+2473 Nucleotides
+2474 Nucleotides
+2475 Nucleotides
+2476 Nucleotides
+2477 Nucleotides
+2478 Nucleotides
+2479 Transport, Extracellular
+2480 Transport, Nuclear
+2481 Transport, Peroxisomal
+2482 NAD Metabolism
+2483 Transport, Nuclear
+2484 Transport, Extracellular
+2485 Transport, Extracellular
+2486 NAD Metabolism
+2487 NAD Metabolism
+2488 Unknown
+2489 NAD Metabolism
+2490 Transport, Nuclear
+2491 Alkaloid biosynthesis II
+2492 Unknown
+2493 NAD Metabolism
+2494 NAD Metabolism
+2495 NAD Metabolism
+2496 NAD Metabolism
+2497 NAD Metabolism
+2498 Tyrosine metabolism
+2499 Arginine and Proline Metabolism
+2500 Arginine and Proline Metabolism
+2501 Transport, Extracellular
+2502 NAD Metabolism
+2503 Transport, Extracellular
+2504 Transport, Extracellular
+2505 Tyrosine metabolism
+2506 Transport, Extracellular
+2507 Unknown
+2508 Transport, Extracellular
+2509 Transport, Peroxisomal
+2510 Carnitine shuttle
+2511 Carnitine shuttle
+2512 Carnitine shuttle
+2513 Transport, Extracellular
+2514 O-Glycan Biosynthesis
+2515 O-Glycan Biosynthesis
+2516 NAD Metabolism
+2517 Pyrimidine Catabolism
+2518 Nucleotides
+2519 Purine Catabolism
+2520 Nucleotides
+2521 Nucleotides
+2522 Pyrimidine Catabolism
+2523 Nucleotides
+2524 Nucleic acid degradation
+2525 Nucleotides
+2526 Pyrimidine Catabolism
+2527 Nucleic acid degradation
+2528 Pyrimidine Catabolism
+2529 Nucleotides
+2530 Nucleic acid degradation
+2531 Pyrimidine Catabolism
+2532 Nucleic acid degradation
+2533 Nucleotides
+2534 Nucleotides
+2535 Nucleic acid degradation
+2536 Nucleotides
+2537 Nucleotides
+2538 Nucleic acid degradation
+2539 Nucleotides
+2540 Nucleic acid degradation
+2541 Nucleotides
+2542 Nucleotides
+2543 Nucleic acid degradation
+2544 Transport, Nuclear
+2545 Nucleotides
+2546 Nucleotides
+2547 Nucleotides
+2548 Nucleotides
+2549 Transport, Extracellular
+2550 Starch and Sucrose Metabolism
+2551 Starch and Sucrose Metabolism
+2552 Transport, Extracellular
+2553 Transport, Mitochondrial
+2554 Transport, Nuclear
+2555 Transport, Peroxisomal
+2556 Transport, Extracellular
+2557 Transport, Endoplasmic Reticular
+2558 Transport, Mitochondrial
+2559 Transport, Nuclear
+2560 Transport, Peroxisomal
+2561 Transport, Extracellular
+2562 Transport, Golgi Apparatus
+2563 Transport, Extracellular
+2564 Transport, Golgi Apparatus
+2565 Glycine, Serine, and Threonine Metabolism
+2566 Urea cycle/amino group metabolism
+2567 Transport, Mitochondrial
+2568 Transport, Peroxisomal
+2569 Transport, Extracellular
+2570 Unknown
+2571 Valine, Leucine, and Isoleucine Metabolism
+2572 Transport, Extracellular
+2573 Transport, Peroxisomal
+2574 Valine, Leucine, and Isoleucine Metabolism
+2575 Valine, Leucine, and Isoleucine Metabolism
+2576 Valine, Leucine, and Isoleucine Metabolism
+2577 Pyrimidine Biosynthesis
+2578 Transport, Extracellular
+2579 Unknown
+2580 Transport, Nuclear
+2581 Transport, Nuclear
+2582 Urea cycle/amino group metabolism
+2583 Urea cycle/amino group metabolism
+2584 Transport, Mitochondrial
+2585 Transport, Mitochondrial
+2586 Unknown
+2587 Pyrimidine Biosynthesis
+2588 Transport, Extracellular
+2589 Transport, Peroxisomal
+2590 Steroid Metabolism
+2591 Bile Acid Biosynthesis
+2592 Bile Acid Biosynthesis
+2593 Bile Acid Biosynthesis
+2594 Bile Acid Biosynthesis
+2595 Bile Acid Biosynthesis
+2596 Bile Acid Biosynthesis
+2597 Bile Acid Biosynthesis
+2598 CYP Metabolism
+2599 CYP Metabolism
+2600 CYP Metabolism
+2601 CYP Metabolism
+2602 CYP Metabolism
+2603 Eicosanoid Metabolism
+2604 Bile Acid Biosynthesis
+2605 Bile Acid Biosynthesis
+2606 Cholesterol Metabolism
+2607 Glutamate metabolism
+2608 Urea cycle/amino group metabolism
+2609 Urea cycle/amino group metabolism
+2610 Arginine and Proline Metabolism
+2611 Glycerophospholipid Metabolism
+2612 Glycerophospholipid Metabolism
+2613 Glycerophospholipid Metabolism
+2614 Unknown
+2615 Transport, Nuclear
+2616 Transport, Nuclear
+2617 Transport, Nuclear
+2618 CoA Catabolism
+2619 Transport, Golgi Apparatus
+2620 Transport, Golgi Apparatus
+2621 Transport, Endoplasmic Reticular
+2622 Transport, Golgi Apparatus
+2623 Transport, Nuclear
+2624 Transport, Mitochondrial
+2625 Glycerophospholipid Metabolism
+2626 Glycerophospholipid Metabolism
+2627 Glycerophospholipid Metabolism
+2628 Glycerophospholipid Metabolism
+2629 Transport, Endoplasmic Reticular
+2630 Transport, Golgi Apparatus
+2631 Lysine Metabolism
+2632 Urea cycle/amino group metabolism
+2633 Carnitine shuttle
+2634 Pyruvate Metabolism
+2635 Transport, Extracellular
+2636 Nucleotides
+2637 Nucleotides
+2638 Nucleotides
+2639 Nucleotides
+2640 Unknown
+2641 Glycolysis/Gluconeogenesis
+2642 Unknown
+2643 Vitamin B6 Metabolism
+2644 Phenylalanine metabolism
+2645 Transport, Extracellular
+2646 Transport, Mitochondrial
+2647 Glycolysis/Gluconeogenesis
+2648 Glycolysis/Gluconeogenesis
+2649 Transport, Nuclear
+2650 Fatty acid oxidation, peroxisome
+2651 Glycerophospholipid Metabolism
+2652 Glycerophospholipid Metabolism
+2653 Glycerophospholipid Metabolism
+2654 Transport, Endoplasmic Reticular
+2655 Transport, Golgi Apparatus
+2656 Transport, Mitochondrial
+2657 Unknown
+2658 Glycolysis/Gluconeogenesis
+2659 Fructose and Mannose Metabolism
+2660 Glycine, Serine, and Threonine Metabolism
+2661 Eicosanoid Metabolism
+2662 Eicosanoid Metabolism
+2663 Eicosanoid Metabolism
+2664 Glycolysis/Gluconeogenesis
+2665 Eicosanoid Metabolism
+2666 Glycolysis/Gluconeogenesis
+2667 Pentose Phosphate Pathway
+2668 Unknown
+2669 Pentose Phosphate Pathway
+2670 Glycolysis/Gluconeogenesis
+2671 Glycolysis/Gluconeogenesis
+2672 Glycerophospholipid Metabolism
+2673 Glycerophospholipid Metabolism
+2674 Eicosanoid Metabolism
+2675 Eicosanoid Metabolism
+2676 Arginine and Proline Metabolism
+2677 Transport, Extracellular
+2678 Transport, Mitochondrial
+2679 Phenylalanine metabolism
+2680 Phenylalanine metabolism
+2681 Tyr, Phe, Trp Biosynthesis
+2682 Transport, Extracellular
+2683 Transport, Extracellular
+2684 Phenylalanine metabolism
+2685 Fatty acid oxidation, peroxisome
+2686 Transport, Extracellular
+2687 Transport, Extracellular
+2688 Inositol Phosphate Metabolism
+2689 Inositol Phosphate Metabolism
+2690 Inositol Phosphate Metabolism
+2691 Inositol Phosphate Metabolism
+2692 Inositol Phosphate Metabolism
+2693 Inositol Phosphate Metabolism
+2694 Inositol Phosphate Metabolism
+2695 Inositol Phosphate Metabolism
+2696 Inositol Phosphate Metabolism
+2697 Inositol Phosphate Metabolism
+2698 Inositol Phosphate Metabolism
+2699 Inositol Phosphate Metabolism
+2700 Inositol Phosphate Metabolism
+2701 Inositol Phosphate Metabolism
+2702 Inositol Phosphate Metabolism
+2703 Inositol Phosphate Metabolism
+2704 Inositol Phosphate Metabolism
+2705 Inositol Phosphate Metabolism
+2706 Inositol Phosphate Metabolism
+2707 Inositol Phosphate Metabolism
+2708 Inositol Phosphate Metabolism
+2709 Glycerophospholipid Metabolism
+2710 Inositol Phosphate Metabolism
+2711 Inositol Phosphate Metabolism
+2712 Inositol Phosphate Metabolism
+2713 Inositol Phosphate Metabolism
+2714 Inositol Phosphate Metabolism
+2715 Inositol Phosphate Metabolism
+2716 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+2717 Inositol Phosphate Metabolism
+2718 Inositol Phosphate Metabolism
+2719 Inositol Phosphate Metabolism
+2720 Glycerophospholipid Metabolism
+2721 Inositol Phosphate Metabolism
+2722 Inositol Phosphate Metabolism
+2723 Inositol Phosphate Metabolism
+2724 Inositol Phosphate Metabolism
+2725 Transport, Mitochondrial
+2726 Transport, Extracellular
+2727 Transport, Extracellular
+2728 Unknown
+2729 Transport, Extracellular
+2730 Transport, Endoplasmic Reticular
+2731 Transport, Golgi Apparatus
+2732 Transport, Nuclear
+2733 Transport, Peroxisomal
+2734 Glycerophospholipid Metabolism
+2735 Glycerophospholipid Metabolism
+2736 Glycerophospholipid Metabolism
+2737 Lysine Metabolism
+2738 Fructose and Mannose Metabolism
+2739 Cholesterol Metabolism
+2740 Inositol Phosphate Metabolism
+2741 Inositol Phosphate Metabolism
+2742 Inositol Phosphate Metabolism
+2743 Inositol Phosphate Metabolism
+2744 Transport, Peroxisomal
+2745 NAD Metabolism
+2746 CoA Catabolism
+2747 CoA Biosynthesis
+2748 CoA Biosynthesis
+2749 Transport, Extracellular
+2750 Oxidative Phosphorylation
+2751 Others
+2752 Others
+2753 Triacylglycerol Synthesis
+2754 Miscellaneous
+2755 Oxidative Phosphorylation
+2756 Miscellaneous
+2757 Unknown
+2758 Transport, Mitochondrial
+2759 CoA Biosynthesis
+2760 Propanoate Metabolism
+2761 Unknown
+2762 Pyruvate Metabolism
+2763 Transport, Endoplasmic Reticular
+2764 Transport, Peroxisomal
+2765 Pentose Phosphate Pathway
+2766 Transport, Nuclear
+2767 Transport, Nuclear
+2768 CoA Biosynthesis
+2769 Transport, Nuclear
+2770 IMP Biosynthesis
+2771 IMP Biosynthesis
+2772 IMP Biosynthesis
+2773 Miscellaneous
+2774 IMP Biosynthesis
+2775 Steroid Metabolism
+2776 Transport, Mitochondrial
+2777 Transport, Endoplasmic Reticular
+2778 Unknown
+2779 Transport, Peroxisomal
+2780 Transport, Peroxisomal
+2781 Arginine and Proline Metabolism
+2782 Arginine and Proline Metabolism
+2783 Arginine and Proline Metabolism
+2784 Transport, Extracellular
+2785 Transport, Lysosomal
+2786 Transport, Extracellular
+2787 Transport, Extracellular
+2788 Transport, Extracellular
+2789 Transport, Extracellular
+2790 Transport, Extracellular
+2791 Transport, Extracellular
+2792 Transport, Extracellular
+2793 Unknown
+2794 Unknown
+2795 Unknown
+2796 Transport, Extracellular
+2797 Transport, Lysosomal
+2798 Transport, Extracellular
+2799 Transport, Extracellular
+2800 Transport, Mitochondrial
+2801 beta-Alanine metabolism
+2802 beta-Alanine metabolism
+2803 Pentose Phosphate Pathway
+2804 Glycerophospholipid Metabolism
+2805 Glycine, Serine, and Threonine Metabolism
+2806 Transport, Extracellular
+2807 Transport, Mitochondrial
+2808 Glycine, Serine, and Threonine Metabolism
+2809 Glycerophospholipid Metabolism
+2810 Glycerophospholipid Metabolism
+2811 Transport, Endoplasmic Reticular
+2812 Transport, Golgi Apparatus
+2813 Unknown
+2814 Carnitine shuttle
+2815 Carnitine shuttle
+2816 Carnitine shuttle
+2817 Transport, Extracellular
+2818 Fatty Acid Metabolism
+2819 Fatty Acid Metabolism
+2820 Fatty Acid Metabolism
+2821 Fatty Acid Metabolism
+2822 Tetrahydrobiopterin
+2823 Tetrahydrobiopterin
+2824 Unknown
+2825 Arginine and Proline Metabolism
+2826 Nucleotides
+2827 Purine Catabolism
+2828 Purine Catabolism
+2829 Purine Catabolism
+2830 Purine Catabolism
+2831 Purine Catabolism
+2832 Nucleotides
+2833 Vitamin D
+2834 Unknown
+2835 Transport, Mitochondrial
+2836 Vitamin B6 Metabolism
+2837 Transport, Extracellular
+2838 Transport, Mitochondrial
+2839 Vitamin B6 Metabolism
+2840 Vitamin B6 Metabolism
+2841 Vitamin B6 Metabolism
+2842 Transport, Extracellular
+2843 Vitamin B6 Metabolism
+2844 Transport, Extracellular
+2845 Glycolysis/Gluconeogenesis
+2846 Limonene and pinene degradation
+2847 Limonene and pinene degradation
+2848 Pyrimidine Catabolism
+2849 Transport, Mitochondrial
+2850 D-alanine metabolism
+2851 Transport, Extracellular
+2852 Tryptophan metabolism
+2853 Vitamin A Metabolism
+2854 Vitamin A Metabolism
+2855 Vitamin A Metabolism
+2856 Vitamin A Metabolism
+2857 Vitamin A Metabolism
+2858 Vitamin A Metabolism
+2859 Vitamin A Metabolism
+2860 Transport, Nuclear
+2861 Transport, Nuclear
+2862 Riboflavin Metabolism
+2863 Vitamin A Metabolism
+2864 Vitamin A Metabolism
+2865 Vitamin A Metabolism
+2866 Vitamin A Metabolism
+2867 Vitamin A Metabolism
+2868 Vitamin A Metabolism
+2869 Vitamin A Metabolism
+2870 Vitamin A Metabolism
+2871 Transport, Extracellular
+2872 Transport, Extracellular
+2873 Transport, Extracellular
+2874 Vitamin A Metabolism
+2875 Vitamin A Metabolism
+2876 Vitamin A Metabolism
+2877 Vitamin A Metabolism
+2878 Vitamin A Metabolism
+2879 Vitamin A Metabolism
+2880 Vitamin A Metabolism
+2881 Vitamin A Metabolism
+2882 Vitamin A Metabolism
+2883 Vitamin A Metabolism
+2884 Transport, Extracellular
+2885 Transport, Endoplasmic Reticular
+2886 Transport, Endoplasmic Reticular
+2887 Transport, Endoplasmic Reticular
+2888 Transport, Extracellular
+2889 Transport, Endoplasmic Reticular
+2890 Transport, Endoplasmic Reticular
+2891 Transport, Extracellular
+2892 Transport, Extracellular
+2893 Transport, Extracellular
+2894 Transport, Extracellular
+2895 Nucleotides
+2896 Nucleotides
+2897 NAD Metabolism
+2898 Pentose Phosphate Pathway
+2899 Pentose Phosphate Pathway
+2900 R Group Synthesis
+2901 R Group Synthesis
+2902 R Group Synthesis
+2903 R Group Synthesis
+2904 R Group Synthesis
+2905 Carnitine shuttle
+2906 Carnitine shuttle
+2907 Carnitine shuttle
+2908 Unknown
+2909 Carnitine shuttle
+2910 Carnitine shuttle
+2911 Carnitine shuttle
+2912 Unknown
+2913 Carnitine shuttle
+2914 Carnitine shuttle
+2915 Carnitine shuttle
+2916 Unknown
+2917 R Group Synthesis
+2918 R Group Synthesis
+2919 Transport, Lysosomal
+2920 Transport, Peroxisomal
+2921 Keratan sulfate biosynthesis
+2922 Keratan sulfate biosynthesis
+2923 Keratan sulfate biosynthesis
+2924 O-Glycan Biosynthesis
+2925 N-Glycan Biosynthesis
+2926 Transport, Extracellular
+2927 Transport, Lysosomal
+2928 Transport, Lysosomal
+2929 Chondroitin / heparan sulfate biosynthesis
+2930 Chondroitin / heparan sulfate biosynthesis
+2931 Chondroitin / heparan sulfate biosynthesis
+2932 Chondroitin / heparan sulfate biosynthesis
+2933 Heparan sulfate degradation
+2934 Heparan sulfate degradation
+2935 Chondroitin sulfate degradation
+2936 Chondroitin / heparan sulfate biosynthesis
+2937 Chondroitin / heparan sulfate biosynthesis
+2938 Chondroitin / heparan sulfate biosynthesis
+2939 Heparan sulfate degradation
+2940 Heparan sulfate degradation
+2941 Heparan sulfate degradation
+2942 Chondroitin / heparan sulfate biosynthesis
+2943 Chondroitin / heparan sulfate biosynthesis
+2944 Chondroitin / heparan sulfate biosynthesis
+2945 Chondroitin / heparan sulfate biosynthesis
+2946 Chondroitin / heparan sulfate biosynthesis
+2947 Chondroitin / heparan sulfate biosynthesis
+2948 Chondroitin sulfate degradation
+2949 Chondroitin sulfate degradation
+2950 Chondroitin sulfate degradation
+2951 Chondroitin sulfate degradation
+2952 Chondroitin sulfate degradation
+2953 Keratan sulfate biosynthesis
+2954 Keratan sulfate biosynthesis
+2955 Keratan sulfate biosynthesis
+2956 Keratan sulfate biosynthesis
+2957 Keratan sulfate biosynthesis
+2958 Keratan sulfate biosynthesis
+2959 Keratan sulfate biosynthesis
+2960 Keratan sulfate biosynthesis
+2961 Keratan sulfate biosynthesis
+2962 Chondroitin / heparan sulfate biosynthesis
+2963 Keratan sulfate biosynthesis
+2964 Chondroitin / heparan sulfate biosynthesis
+2965 Chondroitin / heparan sulfate biosynthesis
+2966 Chondroitin / heparan sulfate biosynthesis
+2967 Chondroitin / heparan sulfate biosynthesis
+2968 Chondroitin / heparan sulfate biosynthesis
+2969 Chondroitin / heparan sulfate biosynthesis
+2970 Keratan sulfate biosynthesis
+2971 Keratan sulfate biosynthesis
+2972 Keratan sulfate biosynthesis
+2973 Keratan sulfate biosynthesis
+2974 Keratan sulfate biosynthesis
+2975 Keratan sulfate biosynthesis
+2976 Keratan sulfate biosynthesis
+2977 Keratan sulfate biosynthesis
+2978 Keratan sulfate degradation
+2979 Keratan sulfate degradation
+2980 Keratan sulfate degradation
+2981 Keratan sulfate degradation
+2982 Keratan sulfate degradation
+2983 Keratan sulfate degradation
+2984 Keratan sulfate degradation
+2985 Keratan sulfate degradation
+2986 Keratan sulfate degradation
+2987 Keratan sulfate degradation
+2988 Heparan sulfate degradation
+2989 Keratan sulfate degradation
+2990 Keratan sulfate degradation
+2991 Keratan sulfate degradation
+2992 Keratan sulfate degradation
+2993 Keratan sulfate degradation
+2994 Keratan sulfate degradation
+2995 Keratan sulfate degradation
+2996 Heparan sulfate degradation
+2997 Heparan sulfate degradation
+2998 Chondroitin sulfate degradation
+2999 Chondroitin sulfate degradation
+3000 Chondroitin sulfate degradation
+3001 Chondroitin sulfate degradation
+3002 Chondroitin sulfate degradation
+3003 Chondroitin sulfate degradation
+3004 Lysine Metabolism
+3005 Lysine Metabolism
+3006 Nucleotides
+3007 Tyrosine metabolism
+3008 Tyrosine metabolism
+3009 Histidine Metabolism
+3010 Glycine, Serine, and Threonine Metabolism
+3011 Transport, Extracellular
+3012 Transport, Mitochondrial
+3013 Transport, Peroxisomal
+3014 Sphingolipid Metabolism
+3015 Sphingolipid Metabolism
+3016 Fructose and Mannose Metabolism
+3017 Fructose and Mannose Metabolism
+3018 Transport, Peroxisomal
+3019 Transport, Peroxisomal
+3020 Bile Acid Biosynthesis
+3021 Bile Acid Biosynthesis
+3022 Bile Acid Biosynthesis
+3023 Selenoamino acid metabolism
+3024 Selenoamino acid metabolism
+3025 Selenoamino acid metabolism
+3026 Selenoamino acid metabolism
+3027 Selenoamino acid metabolism
+3028 Selenoamino acid metabolism
+3029 Selenoamino acid metabolism
+3030 Selenoamino acid metabolism
+3031 Selenoamino acid metabolism
+3032 Transport, Extracellular
+3033 Transport, Extracellular
+3034 Transport, Extracellular
+3035 Transport, Extracellular
+3036 Transport, Extracellular
+3037 Transport, Extracellular
+3038 Transport, Extracellular
+3039 Transport, Extracellular
+3040 Transport, Extracellular
+3041 Transport, Extracellular
+3042 Sphingolipid Metabolism
+3043 Transport, Extracellular
+3044 Transport, Extracellular
+3045 Transport, Extracellular
+3046 Transport, Peroxisomal
+3047 Unknown
+3048 Transport, Lysosomal
+3049 Sphingolipid Metabolism
+3050 Sphingolipid Metabolism
+3051 N-Glycan Degradation
+3052 Keratan sulfate degradation
+3053 Keratan sulfate degradation
+3054 Keratan sulfate degradation
+3055 N-Glycan Degradation
+3056 Sphingolipid Metabolism
+3057 Sphingolipid Metabolism
+3058 Sphingolipid Metabolism
+3059 Cysteine Metabolism
+3060 Cysteine Metabolism
+3061 Cysteine Metabolism
+3062 Sphingolipid Metabolism
+3063 Sphingolipid Metabolism
+3064 Sphingolipid Metabolism
+3065 Sphingolipid Metabolism
+3066 Transport, Extracellular
+3067 Transport, Extracellular
+3068 Transport, Extracellular
+3069 Transport, Extracellular
+3070 Transport, Extracellular
+3071 Unknown
+3072 Cholesterol Metabolism
+3073 Cholesterol Metabolism
+3074 Cholesterol Metabolism
+3075 Cholesterol Metabolism
+3076 Unknown
+3077 Transport, Extracellular
+3078 Transport, Extracellular
+3079 Unknown
+3080 Transport, Endoplasmic Reticular
+3081 Transport, Lysosomal
+3082 Transport, Endoplasmic Reticular
+3083 Sphingolipid Metabolism
+3084 Sphingolipid Metabolism
+3085 Transport, Golgi Apparatus
+3086 Transport, Lysosomal
+3087 Transport, Extracellular
+3088 Transport, Endoplasmic Reticular
+3089 Urea cycle/amino group metabolism
+3090 ROS Detoxification
+3091 ROS Detoxification
+3092 ROS Detoxification
+3093 ROS Detoxification
+3094 ROS Detoxification
+3095 Tetrahydrobiopterin
+3096 Urea cycle/amino group metabolism
+3097 Tetrahydrobiopterin
+3098 Cholesterol Metabolism
+3099 Cholesterol Metabolism
+3100 Steroid Metabolism
+3101 Steroid Metabolism
+3102 Tryptophan metabolism
+3103 Tryptophan metabolism
+3104 Unknown
+3105 Transport, Extracellular
+3106 Glutamate metabolism
+3107 Sphingolipid Metabolism
+3108 Sphingolipid Metabolism
+3109 Sphingolipid Metabolism
+3110 Blood Group Biosynthesis
+3111 Blood Group Biosynthesis
+3112 Blood Group Biosynthesis
+3113 Sphingolipid Metabolism
+3114 Sphingolipid Metabolism
+3115 Sphingolipid Metabolism
+3116 Sphingolipid Metabolism
+3117 Sphingolipid Metabolism
+3118 Sphingolipid Metabolism
+3119 Sphingolipid Metabolism
+3120 Sphingolipid Metabolism
+3121 Sphingolipid Metabolism
+3122 Sphingolipid Metabolism
+3123 Sphingolipid Metabolism
+3124 Sphingolipid Metabolism
+3125 Sphingolipid Metabolism
+3126 Sphingolipid Metabolism
+3127 Sphingolipid Metabolism
+3128 Sphingolipid Metabolism
+3129 Sphingolipid Metabolism
+3130 Sphingolipid Metabolism
+3131 Blood Group Biosynthesis
+3132 Transport, Peroxisomal
+3133 Carnitine shuttle
+3134 Carnitine shuttle
+3135 Carnitine shuttle
+3136 Transport, Extracellular
+3137 Steroid Metabolism
+3138 Steroid Metabolism
+3139 Steroid Metabolism
+3140 Steroid Metabolism
+3141 Steroid Metabolism
+3142 Steroid Metabolism
+3143 Steroid Metabolism
+3144 Steroid Metabolism
+3145 Unknown
+3146 Transport, Extracellular
+3147 Transport, Extracellular
+3148 Transport, Peroxisomal
+3149 Citric Acid Cycle
+3150 Citric Acid Cycle
+3151 Citric Acid Cycle
+3152 Cysteine Metabolism
+3153 Unknown
+3154 Limonene and pinene degradation
+3155 Limonene and pinene degradation
+3156 Ubiquinone Biosynthesis
+3157 Unknown
+3158 Unknown
+3159 Pentose Phosphate Pathway
+3160 Unknown
+3161 Taurine and hypotaurine metabolism
+3162 Transport, Extracellular
+3163 Transport, Extracellular
+3164 Transport, Extracellular
+3165 Transport, Extracellular
+3166 Transport, Peroxisomal
+3167 Transport, Extracellular
+3168 Transport, Mitochondrial
+3169 Transport, Extracellular
+3170 Thiamine Metabolism
+3171 Nucleotide Sugar Metabolism
+3172 Thiamine Metabolism
+3173 Extracellular exchange
+3174 Extracellular exchange
+3175 Transport, Peroxisomal
+3176 Carnitine shuttle
+3177 Carnitine shuttle
+3178 Carnitine shuttle
+3179 Transport, Extracellular
+3180 Transport, Peroxisomal
+3181 Carnitine shuttle
+3182 Carnitine shuttle
+3183 Carnitine shuttle
+3184 Transport, Extracellular
+3185 Transport, Peroxisomal
+3186 Carnitine shuttle
+3187 Carnitine shuttle
+3188 Carnitine shuttle
+3189 Transport, Extracellular
+3190 Tetrahydrobiopterin
+3191 Transport, Peroxisomal
+3192 NAD Metabolism
+3193 Transport, Extracellular
+3194 Transport, Lysosomal
+3195 Transport, Mitochondrial
+3196 Transport, Extracellular
+3197 Transport, Extracellular
+3198 Transport, Extracellular
+3199 Transport, Mitochondrial
+3200 Thiamine Metabolism
+3201 Transport, Mitochondrial
+3202 Thiamine Metabolism
+3203 Transport, Extracellular
+3204 Transport, Mitochondrial
+3205 Transport, Extracellular
+3206 Transport, Extracellular
+3207 Transport, Extracellular
+3208 Transport, Extracellular
+3209 Glycine, Serine, and Threonine Metabolism
+3210 Transport, Extracellular
+3211 Transport, Extracellular
+3212 Transport, Extracellular
+3213 Glycine, Serine, and Threonine Metabolism
+3214 Transport, Extracellular
+3215 Transport, Extracellular
+3216 Transport, Extracellular
+3217 Transport, Lysosomal
+3218 Transport, Mitochondrial
+3219 Transport, Extracellular
+3220 Transport, Extracellular
+3221 Transport, Extracellular
+3222 Pentose Phosphate Pathway
+3223 Pentose Phosphate Pathway
+3224 Lysine Metabolism
+3225 Nucleotides
+3226 Nucleotides
+3227 Thiamine Metabolism
+3228 Pyrimidine Catabolism
+3229 Thiamine Metabolism
+3230 Nucleotides
+3231 Lysine Metabolism
+3232 Transport, Endoplasmic Reticular
+3233 Transport, Peroxisomal
+3234 Carnitine shuttle
+3235 Carnitine shuttle
+3236 Carnitine shuttle
+3237 Transport, Extracellular
+3238 Glycolysis/Gluconeogenesis
+3239 Nucleotides
+3240 Miscellaneous
+3241 Miscellaneous
+3242 Nucleotides
+3243 Starch and Sucrose Metabolism
+3244 Starch and Sucrose Metabolism
+3245 Transport, Extracellular
+3246 Tyrosine metabolism
+3247 Transport, Extracellular
+3248 Transport, Extracellular
+3249 Fructose and Mannose Metabolism
+3250 Tryptophan metabolism
+3251 Tryptophan metabolism
+3252 Transport, Extracellular
+3253 Transport, Extracellular
+3254 Tryptophan metabolism
+3255 Vitamin D
+3256 Transport, Extracellular
+3257 Transport, Endoplasmic Reticular
+3258 Unknown
+3259 Transport, Endoplasmic Reticular
+3260 Transport, Extracellular
+3261 Transport, Extracellular
+3262 Transport, Extracellular
+3263 Carnitine shuttle
+3264 Carnitine shuttle
+3265 Carnitine shuttle
+3266 Transport, Extracellular
+3267 Transport, Endoplasmic Reticular
+3268 Eicosanoid Metabolism
+3269 Transport, Extracellular
+3270 Tyrosine metabolism
+3271 Tyrosine metabolism
+3272 Tyrosine metabolism
+3273 Tyrosine metabolism
+3274 Unknown
+3275 Transport, Extracellular
+3276 Transport, Extracellular
+3277 Unknown
+3278 Aminosugar Metabolism
+3279 Transport, Lysosomal
+3280 N-Glycan Biosynthesis
+3281 N-Glycan Biosynthesis
+3282 Pentose and Glucuronate Interconversions
+3283 Galactose metabolism
+3284 Unknown
+3285 Transport, Golgi Apparatus
+3286 Starch and Sucrose Metabolism
+3287 Transport, Endoplasmic Reticular
+3288 Transport, Golgi Apparatus
+3289 Transport, Endoplasmic Reticular
+3290 Transport, Golgi Apparatus
+3291 Nucleotide Sugar Metabolism
+3292 Pentose and Glucuronate Interconversions
+3293 Starch and Sucrose Metabolism
+3294 Transport, Endoplasmic Reticular
+3295 Transport, Golgi Apparatus
+3296 Transport, Lysosomal
+3297 Galactose metabolism
+3298 Transport, Endoplasmic Reticular
+3299 Transport, Golgi Apparatus
+3300 Sphingolipid Metabolism
+3301 Transport, Golgi Apparatus
+3302 Galactose metabolism
+3303 Steroid Metabolism
+3304 Steroid Metabolism
+3305 Steroid Metabolism
+3306 Steroid Metabolism
+3307 Steroid Metabolism
+3308 Vitamin A Metabolism
+3309 Vitamin A Metabolism
+3310 Steroid Metabolism
+3311 Steroid Metabolism
+3312 Steroid Metabolism
+3313 Steroid Metabolism
+3314 Nucleotides
+3315 Nucleotides
+3316 Nucleotides
+3317 Nucleotides
+3318 Nucleotides
+3319 Nucleotides
+3320 Nucleotides
+3321 Nucleotides
+3322 Nucleotides
+3323 Nucleotides
+3324 Nucleotides
+3325 Nucleotides
+3326 Nucleotides
+3327 Nucleotides
+3328 Nucleotides
+3329 Unknown
+3330 Heme Biosynthesis
+3331 Heme Biosynthesis
+3332 Transport, Extracellular
+3333 Transport, Extracellular
+3334 Histidine Metabolism
+3335 Transport, Extracellular
+3336 Transport, Extracellular
+3337 Urea cycle/amino group metabolism
+3338 Nucleotides
+3339 Pyrimidine Biosynthesis
+3340 Transport, Extracellular
+3341 Transport, Extracellular
+3342 Transport, Extracellular
+3343 Ascorbate and Aldarate Metabolism
+3344 Transport, Nuclear
+3345 Transport, Lysosomal
+3346 Transport, Mitochondrial
+3347 Transport, Nuclear
+3348 Carnitine shuttle
+3349 Carnitine shuttle
+3350 Carnitine shuttle
+3351 Transport, Extracellular
+3352 Valine, Leucine, and Isoleucine Metabolism
+3353 Valine, Leucine, and Isoleucine Metabolism
+3354 Transport, Extracellular
+3355 Transport, Mitochondrial
+3356 Transport, Extracellular
+3357 Vitamin D
+3358 Vitamin D
+3359 Transport, Extracellular
+3360 Transport, Mitochondrial
+3361 Vitamin D
+3362 Transport, Extracellular
+3363 Transport, Extracellular
+3364 Transport, Mitochondrial
+3365 Transport, Mitochondrial
+3366 Bile Acid Biosynthesis
+3367 Bile Acid Biosynthesis
+3368 Bile Acid Biosynthesis
+3369 Bile Acid Biosynthesis
+3370 Transport, Peroxisomal
+3371 Purine Catabolism
+3372 Transport, Mitochondrial
+3373 Transport, Mitochondrial
+3374 Transport, Endoplasmic Reticular
+3375 Transport, Endoplasmic Reticular
+3376 Transport, Extracellular
+3377 Transport, Extracellular
+3378 Transport, Endoplasmic Reticular
+3379 Transport, Extracellular
+3380 Transport, Endoplasmic Reticular
+3381 Transport, Extracellular
+3382 Transport, Mitochondrial
+3383 Transport, Endoplasmic Reticular
+3384 Transport, Golgi Apparatus
+3385 Pentose and Glucuronate Interconversions
+3386 Unknown
+3387 Chondroitin / heparan sulfate biosynthesis
+3388 Transport, Extracellular
+3389 Pentose and Glucuronate Interconversions
+3390 Transport, Extracellular
+3391 Unknown
+3392 Unknown
+3393 Unknown
