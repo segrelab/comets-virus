@@ -1,5 +1,9 @@
 # comets-virus
 
+This repository contains scripts and materials to reproduce the results in the publication "Dynamic metabolic modeling of ATP allocation during viral infection" by Alvin Lu, Ilija Dukovski, Daniel Segrè (https://www.biorxiv.org/content/10.1101/2024.11.12.623198v1). It requires the software COMETS and its interface COMETSpy which can be downloaded from https://www.runcomets.org, and the code can be found at https://github.com/segrelab/comets and https://github.com/segrelab/cometspy.
+
+The respository is organized by figures:
+
 ## Figures 4-5
 FluxComparer compares the fluxes between the model with and without lipids. It uses ReactionLabels' data to categorize reactions and generate Figures 4 and 5.
 
