@@ -4,16 +4,16 @@ This repository contains scripts and materials to reproduce the results in the p
 
 The respository is organized by figures:
 
-## Figures 4-5
+## Figures 2-3
 FluxComparer compares the fluxes between the model with and without lipids. It uses ReactionLabels' data to categorize reactions and generate Figures 4 and 5.
 
-## Figure 6
+## Figure 4
 VirusRunner is the main notebook that sets up a SARS-CoV-2 infected macrophage experiment (including partitioning ATP and enabling host maintenance). It graphs the virus growth and host death over time. DynamicModelGrapher synthesizes data generated from VirusRunner with different partition ratios.
 
-## Figure 7
+## Figure 5
 PartitionRatioRunnerC compares generates data about virus biomass and host lifespan based on different partition ratios and a set host maintenance. GrapherC reads and plots the data.
 
-## Figure 8
+## Figure 6
 PartitionRatioRunnerB compares generates data about virus biomass and host lifespan based on different partition ratios and different host maintenance values. GrapherB reads and plots the data.
 
 ## Knockouts
