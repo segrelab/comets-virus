@@ -34,9 +34,9 @@ for staticMetabolites in [True, False]:
 
                 #New output file for each ATP threshold and glucose concentration
                 if (not staticMetabolites):
-                    output = open("ResourcePartitionB|uptake=" + str(uptake) + "|vmin=" + str(vmin) + "|Glc=" + str(glcConc) + ".csv", "w")
+                    output = open("ResourcePartitionB_uptake=" + str(uptake) + "_vmin=" + str(vmin) + "_Glc=" + str(glcConc) + ".csv", "w")
                 else:
-                    output = open("ResourcePartitionB|static|uptake=" + str(uptake) + "|vmin=" + str(vmin) + "|Glc=" + str(glcConc) + ".csv", "w")
+                    output = open("ResourcePartitionB_static_uptake=" + str(uptake) + "_vmin=" + str(vmin) + "|Glc=" + str(glcConc) + ".csv", "w")
 
                 output.write('Glucose Concentration,ATP Threshold,Virus Partition Ratio,Host Lifespan,Virus Mass\n') #Write header
 
